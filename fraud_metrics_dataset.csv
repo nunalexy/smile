@@ -1,0 +1,1201 @@
+Case_ID,Detection_Date,Region,Revenue_Stream,Fraud_Type,Is_Fraud_Confirmed,Detection_Time_Hours,Resolution_Time_Hours,Revenue_Loss_USD,Revenue_At_Risk_USD,Analyst_ID,Fraud_Prevented_USD
+FRAUD1000,2023-01-12 08:48:06,Europe,Prepaid Data,Wangiri,1,3.6,24.1,54.93,174.99,7,0.0
+FRAUD1001,2023-03-11 09:11:36,Africa,Prepaid Data,Wangiri,1,3.6,0.4,101.45,169.58,11,0.0
+FRAUD1002,2023-05-12 13:27:02,Americas,Prepaid Data,International Revenue Share Fraud,1,1.3,4.1,89.83,84.16,11,0.0
+FRAUD1003,2023-04-03 15:07:17,Africa,Interconnect,Simbox,0,3.6,17.3,66.35,164.04,10,164.04
+FRAUD1004,2023-08-03 14:33:43,Americas,Prepaid Voice,CLI Spoofing,1,29.1,2.0,268.76,371.89,10,0.0
+FRAUD1005,2023-03-22 00:17:28,Americas,Prepaid Data,CLI Spoofing,1,46.6,23.1,30.41,206.2,4,0.0
+FRAUD1006,2023-06-04 09:57:13,Asia,Prepaid Voice,Simbox,1,24.3,1.8,233.38,135.57,14,0.0
+FRAUD1007,2023-05-24 23:15:31,Americas,Postpaid Voice,Wangiri,1,3.9,5.4,129.11,100.88,2,0.0
+FRAUD1008,2023-03-11 22:36:40,Europe,Prepaid Voice,International Revenue Share Fraud,1,5.6,0.2,66.46,235.05,8,0.0
+FRAUD1009,2023-06-06 21:07:44,Africa,Postpaid Voice,Simbox,0,8.7,57.4,109.29,251.38,5,251.38
+FRAUD1010,2023-06-09 21:26:24,Americas,Prepaid Voice,CLI Spoofing,0,10.7,62.7,114.89,54.78,13,54.78
+FRAUD1011,2023-10-06 23:12:25,Africa,Postpaid Data,Simbox,1,16.4,35.8,37.22,117.73,12,0.0
+FRAUD1012,2023-10-22 14:23:56,Africa,Interconnect,CLI Spoofing,1,16.1,11.6,76.77,151.33,11,0.0
+FRAUD1013,2023-09-07 18:45:21,Africa,Postpaid Voice,Subscription Fraud,1,4.0,0.8,111.95,32.87,9,0.0
+FRAUD1014,2023-09-03 13:18:15,Africa,Interconnect,International Revenue Share Fraud,1,30.3,0.4,118.58,84.83,4,0.0
+FRAUD1015,2023-12-03 06:41:27,Africa,Postpaid Voice,Subscription Fraud,1,4.6,40.7,63.93,128.65,10,0.0
+FRAUD1016,2023-06-30 14:04:27,Americas,Prepaid Data,Subscription Fraud,0,7.3,10.4,9.4,127.33,7,127.33
+FRAUD1017,2023-11-18 20:17:44,Asia,Postpaid Data,Wangiri,1,1.8,1.3,118.01,104.5,9,0.0
+FRAUD1018,2023-07-19 09:20:27,Americas,Postpaid Data,Wangiri,1,13.6,1.1,9.28,96.91,6,0.0
+FRAUD1019,2023-01-11 21:03:53,Africa,Interconnect,Simbox,1,6.4,27.9,42.5,58.76,13,0.0
+FRAUD1020,2023-04-05 08:05:29,Europe,Postpaid Voice,Wangiri,1,24.6,13.6,47.54,66.32,1,0.0
+FRAUD1021,2023-08-06 12:50:08,Europe,Postpaid Data,Wangiri,1,26.8,14.1,143.41,61.33,2,0.0
+FRAUD1022,2023-10-26 01:26:26,Europe,Postpaid Data,Subscription Fraud,1,10.1,9.6,135.47,67.13,6,0.0
+FRAUD1023,2023-03-26 21:39:48,Africa,Interconnect,CLI Spoofing,1,22.2,8.5,65.79,90.08,4,0.0
+FRAUD1024,2023-05-05 02:16:22,Americas,Postpaid Voice,International Revenue Share Fraud,1,35.6,77.8,166.51,91.34,7,0.0
+FRAUD1025,2023-07-14 19:05:02,Americas,Interconnect,Subscription Fraud,1,6.3,37.0,54.71,202.43,12,0.0
+FRAUD1026,2023-01-22 22:34:05,Asia,Prepaid Voice,CLI Spoofing,1,28.3,7.0,109.25,76.7,13,0.0
+FRAUD1027,2023-04-10 16:45:52,Africa,Prepaid Voice,Simbox,1,7.8,16.6,251.76,216.1,4,0.0
+FRAUD1028,2023-09-17 09:58:12,Africa,Prepaid Voice,Subscription Fraud,1,5.3,1.2,62.67,25.98,7,0.0
+FRAUD1029,2023-01-21 20:18:10,Asia,Postpaid Voice,Simbox,1,17.9,3.9,39.94,132.07,10,0.0
+FRAUD1030,2023-08-09 08:51:48,Asia,Prepaid Data,Subscription Fraud,1,10.6,17.8,382.56,192.36,7,0.0
+FRAUD1031,2023-02-24 23:02:09,Europe,Postpaid Data,Wangiri,1,2.5,25.1,25.37,283.77,3,0.0
+FRAUD1032,2023-04-24 11:51:49,Europe,Postpaid Data,Simbox,1,1.5,42.5,75.79,110.95,4,0.0
+FRAUD1033,2023-02-14 09:02:59,Asia,Postpaid Data,CLI Spoofing,1,8.7,5.4,64.73,55.26,3,0.0
+FRAUD1034,2023-05-26 23:50:49,Europe,Prepaid Data,International Revenue Share Fraud,1,6.5,89.4,116.5,204.67,4,0.0
+FRAUD1035,2023-09-21 04:22:24,Africa,Interconnect,Subscription Fraud,1,31.6,38.2,57.95,56.42,4,0.0
+FRAUD1036,2023-12-23 02:24:37,Europe,Interconnect,International Revenue Share Fraud,1,18.9,16.8,185.84,242.95,2,0.0
+FRAUD1037,2023-07-05 18:46:13,Asia,Postpaid Voice,Wangiri,0,30.3,5.9,221.76,152.57,14,152.57
+FRAUD1038,2023-08-18 07:12:16,Africa,Prepaid Voice,International Revenue Share Fraud,1,18.1,22.5,24.52,227.19,1,0.0
+FRAUD1039,2023-09-03 19:23:48,Asia,Postpaid Data,Subscription Fraud,1,0.9,3.2,210.39,118.14,8,0.0
+FRAUD1040,2023-11-20 20:47:25,Asia,Postpaid Data,International Revenue Share Fraud,1,26.8,69.8,360.67,108.09,9,0.0
+FRAUD1041,2023-02-20 06:24:10,Africa,Prepaid Voice,International Revenue Share Fraud,1,10.8,31.2,56.95,121.83,11,0.0
+FRAUD1042,2023-04-27 08:11:39,Asia,Prepaid Data,Simbox,1,18.1,2.4,51.36,72.28,3,0.0
+FRAUD1043,2023-01-17 23:08:48,Americas,Prepaid Data,CLI Spoofing,1,5.1,6.3,12.9,337.92,2,0.0
+FRAUD1044,2023-07-05 01:18:09,Americas,Prepaid Data,CLI Spoofing,1,38.6,8.1,64.29,170.54,1,0.0
+FRAUD1045,2023-12-01 23:04:31,Africa,Postpaid Voice,Wangiri,1,6.3,39.2,130.86,328.77,12,0.0
+FRAUD1046,2023-04-06 23:35:14,Asia,Interconnect,CLI Spoofing,1,10.7,23.5,74.66,96.51,10,0.0
+FRAUD1047,2023-08-11 02:04:34,Africa,Postpaid Data,Wangiri,1,8.9,40.9,94.19,174.97,13,0.0
+FRAUD1048,2023-04-19 19:11:28,Americas,Postpaid Data,International Revenue Share Fraud,0,10.5,75.3,42.74,164.99,4,164.99
+FRAUD1049,2023-06-03 21:45:13,Africa,Interconnect,International Revenue Share Fraud,1,12.6,36.4,193.93,357.97,8,0.0
+FRAUD1050,2023-05-02 11:05:02,Europe,Prepaid Voice,CLI Spoofing,1,25.0,63.6,111.18,130.15,13,0.0
+FRAUD1051,2023-04-05 14:56:56,Africa,Postpaid Voice,International Revenue Share Fraud,1,22.5,0.4,88.94,134.41,14,0.0
+FRAUD1052,2023-04-20 21:14:00,Americas,Prepaid Voice,Simbox,1,31.8,8.7,101.72,140.15,10,0.0
+FRAUD1053,2023-11-10 01:42:54,Europe,Postpaid Voice,International Revenue Share Fraud,1,12.4,13.4,100.03,177.67,1,0.0
+FRAUD1054,2023-05-06 09:52:49,Asia,Interconnect,International Revenue Share Fraud,1,30.1,32.1,98.93,300.27,3,0.0
+FRAUD1055,2023-09-07 18:27:32,Europe,Prepaid Voice,Simbox,1,2.1,52.1,64.14,52.9,9,0.0
+FRAUD1056,2023-07-07 18:31:15,Europe,Interconnect,Simbox,0,0.8,9.4,80.36,215.39,3,215.39
+FRAUD1057,2023-07-19 06:51:39,Africa,Interconnect,International Revenue Share Fraud,1,14.6,0.1,41.02,65.95,12,0.0
+FRAUD1058,2023-11-08 04:48:10,Africa,Prepaid Data,Simbox,1,1.4,21.9,28.6,191.69,2,0.0
+FRAUD1059,2023-10-08 07:49:50,Europe,Prepaid Voice,CLI Spoofing,1,6.1,43.8,176.3,210.38,6,0.0
+FRAUD1060,2023-06-15 19:20:23,Asia,Prepaid Data,CLI Spoofing,1,7.1,33.0,220.62,79.06,10,0.0
+FRAUD1061,2023-06-25 21:36:15,Africa,Interconnect,International Revenue Share Fraud,1,8.7,10.1,122.84,54.54,12,0.0
+FRAUD1062,2023-01-04 17:17:04,Americas,Prepaid Voice,CLI Spoofing,1,4.5,25.2,116.2,181.68,14,0.0
+FRAUD1063,2023-08-20 18:49:57,Europe,Interconnect,International Revenue Share Fraud,1,29.9,16.8,96.86,123.38,14,0.0
+FRAUD1064,2023-11-04 10:14:00,Asia,Interconnect,Wangiri,0,4.3,6.1,81.14,112.57,8,112.57
+FRAUD1065,2023-12-22 14:30:16,Americas,Interconnect,Subscription Fraud,1,10.8,43.5,217.47,90.69,1,0.0
+FRAUD1066,2023-12-24 00:02:43,Asia,Prepaid Voice,Wangiri,1,32.8,4.6,80.2,77.29,10,0.0
+FRAUD1067,2023-06-18 20:20:17,Africa,Prepaid Data,Subscription Fraud,1,12.9,0.8,110.11,261.42,4,0.0
+FRAUD1068,2023-06-04 13:28:48,Asia,Interconnect,Subscription Fraud,1,27.3,85.2,190.0,221.56,5,0.0
+FRAUD1069,2023-12-02 00:42:53,Americas,Prepaid Data,Wangiri,1,6.6,14.7,32.6,291.9,12,0.0
+FRAUD1070,2023-12-14 17:05:05,Europe,Postpaid Voice,Subscription Fraud,1,0.4,12.8,219.35,282.86,6,0.0
+FRAUD1071,2023-11-18 14:10:18,Europe,Prepaid Data,CLI Spoofing,0,29.1,4.0,350.56,34.83,3,34.83
+FRAUD1072,2023-11-09 22:11:45,Asia,Postpaid Voice,CLI Spoofing,1,6.4,16.4,181.2,220.59,1,0.0
+FRAUD1073,2023-09-29 18:11:31,Americas,Postpaid Voice,Simbox,1,25.8,15.7,96.97,85.84,1,0.0
+FRAUD1074,2023-03-12 18:50:15,Europe,Prepaid Data,Simbox,1,10.5,54.2,16.7,171.28,3,0.0
+FRAUD1075,2023-06-24 04:27:20,Americas,Prepaid Voice,Wangiri,1,38.0,20.0,128.57,100.64,9,0.0
+FRAUD1076,2023-09-16 17:41:14,Asia,Prepaid Data,Subscription Fraud,1,12.2,96.0,6.51,43.19,1,0.0
+FRAUD1077,2023-04-28 21:01:58,Africa,Prepaid Data,Wangiri,1,16.0,49.5,287.38,409.16,4,0.0
+FRAUD1078,2023-08-22 17:07:48,Africa,Prepaid Data,International Revenue Share Fraud,0,4.3,1.1,71.08,78.2,14,78.2
+FRAUD1079,2023-11-25 03:39:01,Americas,Postpaid Data,Simbox,0,6.3,57.4,107.36,326.87,11,326.87
+FRAUD1080,2023-04-28 13:22:19,Asia,Interconnect,International Revenue Share Fraud,1,2.1,50.8,88.45,327.87,4,0.0
+FRAUD1081,2023-07-01 23:26:34,Europe,Postpaid Data,Subscription Fraud,1,20.0,62.2,122.15,84.98,10,0.0
+FRAUD1082,2023-02-08 12:58:19,Asia,Prepaid Voice,Wangiri,1,22.0,2.1,69.96,237.07,14,0.0
+FRAUD1083,2023-08-27 23:16:39,Europe,Prepaid Voice,Wangiri,1,1.5,65.4,185.89,232.92,9,0.0
+FRAUD1084,2023-03-16 15:20:05,Americas,Postpaid Data,Subscription Fraud,1,25.6,0.3,133.2,75.69,11,0.0
+FRAUD1085,2023-06-05 13:15:11,Americas,Interconnect,CLI Spoofing,0,5.3,1.2,66.07,161.31,2,161.31
+FRAUD1086,2023-04-25 11:09:12,Europe,Postpaid Data,Simbox,1,11.2,4.1,80.13,96.5,4,0.0
+FRAUD1087,2023-05-09 12:19:00,Europe,Interconnect,Simbox,1,4.8,48.0,68.41,74.97,11,0.0
+FRAUD1088,2023-08-02 02:46:41,Africa,Postpaid Data,Simbox,1,1.0,11.2,182.12,88.43,8,0.0
+FRAUD1089,2023-03-21 22:38:45,Asia,Prepaid Data,Wangiri,1,6.9,6.8,10.4,70.76,13,0.0
+FRAUD1090,2023-10-17 14:16:18,Americas,Postpaid Data,Wangiri,0,42.5,18.1,205.47,92.74,9,92.74
+FRAUD1091,2023-05-11 07:07:21,Africa,Prepaid Data,Wangiri,1,18.4,32.8,23.22,140.97,10,0.0
+FRAUD1092,2023-03-15 18:12:18,Europe,Postpaid Data,Wangiri,1,3.7,7.8,122.47,86.68,13,0.0
+FRAUD1093,2023-04-29 19:48:51,Americas,Prepaid Voice,Wangiri,1,5.6,4.7,73.64,134.28,4,0.0
+FRAUD1094,2023-06-13 02:40:45,Europe,Prepaid Voice,Subscription Fraud,1,5.6,4.3,23.79,188.33,6,0.0
+FRAUD1095,2023-05-28 11:37:34,Asia,Prepaid Voice,Simbox,0,6.3,5.7,57.05,138.19,10,138.19
+FRAUD1096,2023-02-11 17:55:51,Africa,Interconnect,International Revenue Share Fraud,1,6.6,16.8,88.75,112.05,12,0.0
+FRAUD1097,2023-09-28 02:38:03,Africa,Postpaid Voice,Subscription Fraud,0,7.7,11.5,73.25,196.28,3,196.28
+FRAUD1098,2023-08-27 09:01:19,Asia,Prepaid Voice,Simbox,1,17.4,12.3,97.45,29.79,12,0.0
+FRAUD1099,2023-08-08 01:18:16,Americas,Prepaid Voice,International Revenue Share Fraud,0,26.5,41.6,9.32,348.56,4,348.56
+FRAUD1100,2023-11-25 22:34:56,Europe,Interconnect,International Revenue Share Fraud,1,1.2,2.7,44.95,116.76,7,0.0
+FRAUD1101,2023-11-28 05:02:09,Europe,Postpaid Voice,CLI Spoofing,1,5.7,9.1,6.42,93.2,2,0.0
+FRAUD1102,2023-01-04 18:54:27,Asia,Interconnect,CLI Spoofing,1,12.0,9.2,194.75,103.38,7,0.0
+FRAUD1103,2023-11-20 00:26:39,Europe,Postpaid Voice,Subscription Fraud,1,6.4,15.1,211.88,215.51,12,0.0
+FRAUD1104,2023-09-14 11:26:40,Europe,Prepaid Voice,Wangiri,1,1.8,73.2,34.23,35.41,6,0.0
+FRAUD1105,2023-06-30 18:00:38,Americas,Postpaid Data,Wangiri,1,24.3,32.3,67.04,151.74,12,0.0
+FRAUD1106,2023-01-06 16:18:42,Americas,Postpaid Voice,Subscription Fraud,0,2.7,6.9,99.62,82.94,10,82.94
+FRAUD1107,2023-02-10 19:51:15,Americas,Prepaid Data,International Revenue Share Fraud,1,22.5,15.4,45.33,108.71,11,0.0
+FRAUD1108,2023-12-28 09:10:27,Europe,Interconnect,Wangiri,1,29.0,12.3,83.36,280.26,8,0.0
+FRAUD1109,2023-09-02 14:16:59,Europe,Prepaid Data,Wangiri,1,2.3,39.2,99.58,129.81,9,0.0
+FRAUD1110,2023-04-06 02:40:42,Europe,Postpaid Voice,Subscription Fraud,1,12.6,28.7,149.18,171.34,13,0.0
+FRAUD1111,2023-03-07 09:50:35,Asia,Postpaid Data,Wangiri,1,2.7,42.9,77.61,34.97,6,0.0
+FRAUD1112,2023-06-06 11:21:21,Africa,Postpaid Voice,Simbox,0,21.5,5.0,127.9,301.8,1,301.8
+FRAUD1113,2023-02-13 10:27:20,Africa,Postpaid Data,Simbox,1,7.4,20.3,202.26,73.67,13,0.0
+FRAUD1114,2023-08-08 02:01:15,Americas,Postpaid Voice,Simbox,1,21.4,12.6,166.78,160.15,2,0.0
+FRAUD1115,2023-11-14 16:51:15,Asia,Prepaid Data,International Revenue Share Fraud,1,8.4,14.5,75.03,243.06,8,0.0
+FRAUD1116,2023-10-07 23:48:25,Asia,Postpaid Voice,International Revenue Share Fraud,1,10.9,41.9,84.25,162.58,14,0.0
+FRAUD1117,2023-06-13 16:06:08,Americas,Prepaid Data,Subscription Fraud,1,5.1,17.6,13.37,160.54,2,0.0
+FRAUD1118,2023-12-06 23:30:07,Africa,Interconnect,Subscription Fraud,1,15.6,3.2,202.88,680.77,2,0.0
+FRAUD1119,2023-07-08 03:45:13,Africa,Postpaid Voice,Simbox,1,1.2,6.3,83.19,103.12,8,0.0
+FRAUD1120,2023-06-07 07:48:07,Americas,Postpaid Voice,CLI Spoofing,1,2.3,21.2,93.95,217.0,5,0.0
+FRAUD1121,2023-01-08 23:49:04,Asia,Prepaid Voice,Simbox,1,5.9,24.6,58.91,171.86,9,0.0
+FRAUD1122,2023-07-11 21:27:14,Asia,Interconnect,Simbox,1,3.3,23.0,14.93,145.45,13,0.0
+FRAUD1123,2023-05-14 19:57:52,Americas,Postpaid Voice,CLI Spoofing,1,24.8,72.9,42.26,265.98,14,0.0
+FRAUD1124,2023-03-29 12:35:34,Americas,Prepaid Data,CLI Spoofing,1,1.3,39.3,5.05,71.99,12,0.0
+FRAUD1125,2023-01-28 00:12:14,Europe,Prepaid Data,CLI Spoofing,1,9.4,17.5,21.4,192.49,3,0.0
+FRAUD1126,2023-01-13 01:54:37,Europe,Postpaid Data,Wangiri,1,2.5,26.7,55.24,160.07,2,0.0
+FRAUD1127,2023-12-14 10:56:56,Americas,Postpaid Data,Subscription Fraud,0,1.0,64.9,113.96,187.29,12,187.29
+FRAUD1128,2023-06-19 16:42:12,Europe,Postpaid Data,Wangiri,1,7.5,3.6,281.49,174.3,2,0.0
+FRAUD1129,2023-11-30 16:29:42,Americas,Postpaid Voice,Subscription Fraud,0,21.9,9.5,88.37,279.66,9,279.66
+FRAUD1130,2023-01-10 12:06:21,Americas,Prepaid Voice,Wangiri,1,0.8,10.3,16.13,150.85,13,0.0
+FRAUD1131,2023-02-15 08:47:46,Americas,Prepaid Voice,Simbox,1,1.9,28.9,88.07,201.66,10,0.0
+FRAUD1132,2023-10-22 17:15:44,Asia,Prepaid Voice,Simbox,1,0.5,5.7,170.18,100.17,10,0.0
+FRAUD1133,2023-10-23 23:29:14,Europe,Postpaid Data,International Revenue Share Fraud,1,18.1,31.6,142.19,122.07,8,0.0
+FRAUD1134,2023-03-15 19:28:21,Europe,Interconnect,Wangiri,1,9.2,11.1,144.88,162.28,12,0.0
+FRAUD1135,2023-06-11 17:47:56,Asia,Postpaid Data,International Revenue Share Fraud,1,21.2,5.8,37.58,62.02,8,0.0
+FRAUD1136,2023-07-03 20:16:36,Africa,Postpaid Voice,CLI Spoofing,1,4.2,29.4,120.17,79.46,11,0.0
+FRAUD1137,2023-04-11 17:17:47,Europe,Postpaid Voice,Simbox,1,8.9,8.9,65.5,320.72,5,0.0
+FRAUD1138,2023-04-11 19:57:19,Europe,Postpaid Voice,Subscription Fraud,0,24.9,53.9,198.44,37.62,9,37.62
+FRAUD1139,2023-12-13 12:47:00,Europe,Postpaid Voice,Subscription Fraud,1,12.1,1.3,201.88,138.07,6,0.0
+FRAUD1140,2023-11-16 04:04:20,Europe,Prepaid Voice,International Revenue Share Fraud,1,6.4,115.2,50.13,109.92,4,0.0
+FRAUD1141,2023-11-12 20:42:29,Americas,Postpaid Data,CLI Spoofing,1,5.8,150.2,35.96,300.13,8,0.0
+FRAUD1142,2023-12-11 02:08:46,Europe,Prepaid Voice,Subscription Fraud,1,5.0,85.5,137.74,42.04,1,0.0
+FRAUD1143,2023-07-29 10:33:42,Europe,Postpaid Data,International Revenue Share Fraud,1,12.7,17.6,61.68,113.32,6,0.0
+FRAUD1144,2023-06-20 23:27:14,Asia,Prepaid Data,Wangiri,1,10.6,47.0,70.53,217.78,10,0.0
+FRAUD1145,2023-07-22 15:52:46,Asia,Postpaid Voice,CLI Spoofing,1,5.5,5.0,101.0,60.79,11,0.0
+FRAUD1146,2023-06-09 20:58:57,Africa,Prepaid Data,Wangiri,1,0.9,6.6,395.83,134.07,1,0.0
+FRAUD1147,2023-11-30 05:17:33,Asia,Postpaid Voice,Wangiri,1,26.9,4.4,94.01,298.21,1,0.0
+FRAUD1148,2023-01-17 03:09:48,Asia,Prepaid Data,Subscription Fraud,1,13.5,32.1,48.82,279.67,8,0.0
+FRAUD1149,2023-11-23 04:43:39,Americas,Interconnect,Simbox,1,12.1,11.4,59.22,65.74,11,0.0
+FRAUD1150,2023-09-15 16:37:07,Americas,Postpaid Voice,Simbox,1,17.1,33.5,149.61,135.83,14,0.0
+FRAUD1151,2023-11-01 05:34:03,Asia,Postpaid Data,CLI Spoofing,1,13.8,77.2,23.54,128.62,11,0.0
+FRAUD1152,2023-12-21 23:28:22,Europe,Interconnect,Wangiri,1,11.6,41.2,37.9,57.47,7,0.0
+FRAUD1153,2023-01-24 06:12:39,Americas,Postpaid Voice,Wangiri,1,30.2,22.4,194.72,291.7,6,0.0
+FRAUD1154,2023-11-05 15:10:41,Africa,Prepaid Data,CLI Spoofing,1,26.7,3.5,119.58,96.9,8,0.0
+FRAUD1155,2023-02-17 17:09:09,Africa,Postpaid Voice,CLI Spoofing,0,12.4,14.8,52.55,19.19,10,19.19
+FRAUD1156,2023-08-27 04:21:23,Asia,Postpaid Data,CLI Spoofing,0,24.1,20.3,62.44,70.68,12,70.68
+FRAUD1157,2023-10-02 01:01:05,Americas,Postpaid Voice,Wangiri,1,4.7,7.2,132.18,180.01,11,0.0
+FRAUD1158,2023-06-04 06:59:39,Americas,Postpaid Data,Subscription Fraud,1,0.6,9.1,22.78,246.34,10,0.0
+FRAUD1159,2023-06-05 16:50:50,Asia,Postpaid Data,Subscription Fraud,1,2.7,19.5,237.26,157.55,13,0.0
+FRAUD1160,2023-06-29 02:31:19,Europe,Postpaid Voice,Simbox,1,0.5,21.3,207.56,103.77,11,0.0
+FRAUD1161,2023-10-17 13:44:44,Europe,Postpaid Voice,International Revenue Share Fraud,1,28.2,3.9,24.94,161.04,11,0.0
+FRAUD1162,2023-01-13 03:51:12,Americas,Prepaid Voice,Simbox,1,6.8,56.9,223.93,232.03,13,0.0
+FRAUD1163,2023-12-21 15:05:13,Americas,Prepaid Voice,Subscription Fraud,1,7.1,0.1,69.27,129.05,12,0.0
+FRAUD1164,2023-09-25 11:14:10,Africa,Postpaid Voice,Wangiri,1,6.2,137.5,194.65,124.76,7,0.0
+FRAUD1165,2023-01-13 09:14:05,Europe,Postpaid Voice,Subscription Fraud,1,40.0,9.1,49.96,102.23,6,0.0
+FRAUD1166,2023-12-13 08:43:52,Europe,Prepaid Data,Subscription Fraud,1,6.2,26.9,93.98,203.04,12,0.0
+FRAUD1167,2023-09-25 08:26:06,Asia,Postpaid Data,Subscription Fraud,0,11.0,11.2,137.11,165.06,10,165.06
+FRAUD1168,2023-11-16 01:45:43,Americas,Prepaid Data,International Revenue Share Fraud,1,27.0,3.4,155.0,188.48,12,0.0
+FRAUD1169,2023-12-28 17:43:41,Americas,Prepaid Voice,International Revenue Share Fraud,1,57.0,11.0,220.39,86.17,6,0.0
+FRAUD1170,2023-04-24 16:15:49,Africa,Prepaid Voice,Subscription Fraud,1,1.3,28.6,23.15,193.3,4,0.0
+FRAUD1171,2023-08-14 19:30:33,Europe,Interconnect,Simbox,1,11.6,55.5,195.49,75.37,10,0.0
+FRAUD1172,2023-02-04 23:03:41,Asia,Interconnect,Simbox,1,14.0,34.9,100.96,276.06,13,0.0
+FRAUD1173,2023-06-05 05:00:24,Americas,Postpaid Voice,Wangiri,1,34.4,1.4,34.95,103.09,14,0.0
+FRAUD1174,2023-11-02 14:41:51,Africa,Postpaid Voice,Wangiri,1,4.5,19.7,35.79,51.69,3,0.0
+FRAUD1175,2023-10-22 15:09:09,Europe,Prepaid Voice,Wangiri,1,1.3,15.0,54.83,125.16,8,0.0
+FRAUD1176,2023-06-17 21:05:10,Europe,Prepaid Data,International Revenue Share Fraud,1,5.4,28.5,263.34,177.35,2,0.0
+FRAUD1177,2023-08-13 22:42:04,Americas,Postpaid Voice,Wangiri,0,4.0,2.5,29.31,178.35,7,178.35
+FRAUD1178,2023-01-06 22:17:34,Asia,Prepaid Voice,Wangiri,0,1.7,25.0,150.23,180.77,6,180.77
+FRAUD1179,2023-09-17 09:28:27,Europe,Prepaid Voice,International Revenue Share Fraud,1,17.0,102.2,157.81,41.65,9,0.0
+FRAUD1180,2023-07-19 11:41:34,Americas,Prepaid Data,Subscription Fraud,1,13.8,5.8,193.78,90.34,13,0.0
+FRAUD1181,2023-08-17 06:37:31,Europe,Prepaid Data,International Revenue Share Fraud,1,4.2,15.3,92.39,127.96,7,0.0
+FRAUD1182,2023-05-26 07:03:19,Americas,Postpaid Data,Wangiri,1,10.9,47.7,197.87,395.58,14,0.0
+FRAUD1183,2023-09-06 18:43:36,Europe,Postpaid Voice,Subscription Fraud,1,17.8,8.8,255.81,320.05,3,0.0
+FRAUD1184,2023-04-27 04:59:00,Africa,Interconnect,Subscription Fraud,1,7.1,27.7,177.81,111.13,1,0.0
+FRAUD1185,2023-10-11 22:28:38,Americas,Prepaid Voice,Simbox,0,15.2,1.3,218.27,166.18,13,166.18
+FRAUD1186,2023-01-14 16:36:59,Asia,Postpaid Voice,International Revenue Share Fraud,1,4.1,7.0,274.94,89.92,14,0.0
+FRAUD1187,2023-07-30 04:26:23,Asia,Postpaid Data,International Revenue Share Fraud,1,3.5,14.1,21.68,164.67,10,0.0
+FRAUD1188,2023-01-22 20:59:07,Asia,Interconnect,International Revenue Share Fraud,1,2.0,18.2,100.95,33.87,10,0.0
+FRAUD1189,2023-11-05 06:42:09,Africa,Interconnect,CLI Spoofing,1,4.1,23.2,22.77,138.25,4,0.0
+FRAUD1190,2023-01-05 05:17:30,Africa,Prepaid Voice,Simbox,1,5.8,86.8,67.08,64.73,1,0.0
+FRAUD1191,2023-10-08 07:16:25,Americas,Postpaid Voice,Wangiri,1,30.7,48.1,103.24,126.57,12,0.0
+FRAUD1192,2023-12-15 02:31:33,Americas,Interconnect,Subscription Fraud,0,7.1,30.9,247.17,154.85,14,154.85
+FRAUD1193,2023-01-04 00:08:21,Europe,Interconnect,Wangiri,1,6.2,12.9,127.07,137.65,9,0.0
+FRAUD1194,2023-07-14 00:32:55,Asia,Prepaid Voice,International Revenue Share Fraud,1,3.9,10.4,104.67,124.43,8,0.0
+FRAUD1195,2023-11-12 11:45:55,Asia,Prepaid Voice,International Revenue Share Fraud,1,9.6,6.1,77.07,276.64,3,0.0
+FRAUD1196,2023-12-18 23:48:14,Americas,Prepaid Voice,Subscription Fraud,1,2.1,44.5,230.76,246.16,8,0.0
+FRAUD1197,2023-09-09 10:38:37,Americas,Prepaid Voice,Wangiri,0,1.7,24.9,128.13,39.42,3,39.42
+FRAUD1198,2023-08-18 00:25:38,Europe,Postpaid Data,Wangiri,0,14.9,21.4,75.56,120.23,5,120.23
+FRAUD1199,2023-01-29 01:46:28,Americas,Postpaid Voice,CLI Spoofing,1,4.9,35.9,56.02,114.48,8,0.0
+FRAUD1200,2023-10-17 02:34:12,Africa,Prepaid Voice,Subscription Fraud,1,31.9,43.4,57.3,150.76,7,0.0
+FRAUD1201,2023-01-09 18:15:41,Asia,Prepaid Voice,Wangiri,1,13.6,9.7,137.89,158.3,13,0.0
+FRAUD1202,2023-01-06 07:58:45,Africa,Postpaid Voice,Subscription Fraud,1,20.6,1.9,80.76,141.03,4,0.0
+FRAUD1203,2023-09-14 18:01:19,Americas,Postpaid Voice,International Revenue Share Fraud,1,0.9,21.6,60.35,25.13,6,0.0
+FRAUD1204,2023-10-07 14:26:10,Asia,Postpaid Data,Subscription Fraud,1,20.1,20.9,161.38,44.78,13,0.0
+FRAUD1205,2023-01-19 06:29:07,Asia,Postpaid Data,Simbox,1,18.6,35.4,255.08,128.94,11,0.0
+FRAUD1206,2023-02-26 03:06:08,Europe,Prepaid Voice,Subscription Fraud,1,11.3,1.1,31.04,320.03,2,0.0
+FRAUD1207,2023-06-11 14:01:17,Europe,Interconnect,Subscription Fraud,0,13.4,7.2,43.54,100.46,9,100.46
+FRAUD1208,2023-08-16 06:04:49,Africa,Prepaid Data,Simbox,1,2.8,62.6,179.2,165.82,1,0.0
+FRAUD1209,2023-09-12 06:08:40,Asia,Interconnect,Wangiri,1,4.4,4.9,29.5,141.33,5,0.0
+FRAUD1210,2023-01-16 02:57:23,Europe,Postpaid Voice,CLI Spoofing,1,7.4,22.6,77.32,158.75,2,0.0
+FRAUD1211,2023-10-15 23:23:34,Africa,Prepaid Voice,Subscription Fraud,1,6.2,26.0,189.14,185.0,11,0.0
+FRAUD1212,2023-07-05 11:45:22,Europe,Interconnect,CLI Spoofing,1,17.6,51.5,42.31,118.24,5,0.0
+FRAUD1213,2023-02-13 12:18:52,Asia,Prepaid Data,Wangiri,0,5.6,14.3,157.33,144.45,13,144.45
+FRAUD1214,2023-07-08 03:26:39,Africa,Interconnect,International Revenue Share Fraud,1,2.2,37.1,53.44,198.04,2,0.0
+FRAUD1215,2023-01-27 13:58:31,Americas,Prepaid Data,Wangiri,0,9.4,1.7,188.78,182.02,1,182.02
+FRAUD1216,2023-02-13 07:32:32,Europe,Prepaid Data,CLI Spoofing,1,21.5,1.6,166.94,123.9,1,0.0
+FRAUD1217,2023-03-28 12:48:46,Africa,Postpaid Voice,International Revenue Share Fraud,1,17.0,44.2,79.87,213.7,14,0.0
+FRAUD1218,2023-02-26 22:20:22,Asia,Postpaid Voice,CLI Spoofing,1,19.3,26.4,56.57,165.46,1,0.0
+FRAUD1219,2023-04-25 16:35:41,Americas,Prepaid Voice,Subscription Fraud,0,22.2,49.1,211.82,163.99,10,163.99
+FRAUD1220,2023-06-01 06:19:59,Europe,Postpaid Data,International Revenue Share Fraud,0,9.4,6.7,82.3,185.55,6,185.55
+FRAUD1221,2023-03-28 04:49:56,Africa,Prepaid Data,CLI Spoofing,1,24.2,0.4,10.46,92.25,14,0.0
+FRAUD1222,2023-06-19 07:30:54,Europe,Interconnect,CLI Spoofing,1,4.4,44.8,109.02,94.65,14,0.0
+FRAUD1223,2023-06-29 11:11:04,Europe,Prepaid Data,CLI Spoofing,1,4.4,60.2,48.55,193.68,8,0.0
+FRAUD1224,2023-10-01 13:54:56,Africa,Prepaid Voice,Simbox,0,11.2,20.4,142.75,122.5,5,122.5
+FRAUD1225,2023-04-15 02:14:52,Africa,Postpaid Data,Wangiri,1,4.4,7.0,49.96,238.77,8,0.0
+FRAUD1226,2023-08-04 10:52:20,Asia,Interconnect,Simbox,1,38.1,2.8,79.55,170.66,3,0.0
+FRAUD1227,2023-12-14 17:55:47,Americas,Postpaid Voice,CLI Spoofing,1,7.6,10.4,80.59,217.35,12,0.0
+FRAUD1228,2023-06-10 19:48:15,Europe,Prepaid Data,International Revenue Share Fraud,1,17.7,4.1,77.93,170.5,14,0.0
+FRAUD1229,2023-02-17 20:31:07,Europe,Prepaid Voice,Subscription Fraud,1,7.6,28.6,231.32,95.91,9,0.0
+FRAUD1230,2023-02-08 22:24:48,Americas,Prepaid Data,Subscription Fraud,1,3.3,21.8,61.5,98.19,8,0.0
+FRAUD1231,2023-01-21 02:13:57,Asia,Prepaid Voice,Simbox,1,6.2,45.0,10.19,60.71,2,0.0
+FRAUD1232,2023-09-20 04:08:23,Asia,Prepaid Data,Simbox,1,4.5,14.6,70.49,248.25,12,0.0
+FRAUD1233,2023-02-17 13:20:13,Europe,Prepaid Data,Simbox,1,12.2,30.9,231.59,99.72,7,0.0
+FRAUD1234,2023-11-22 10:46:08,Africa,Postpaid Data,CLI Spoofing,0,6.9,3.4,91.94,186.42,2,186.42
+FRAUD1235,2023-07-20 19:30:37,Americas,Prepaid Data,Subscription Fraud,1,13.2,10.7,103.65,311.53,2,0.0
+FRAUD1236,2023-06-10 14:00:21,Europe,Postpaid Data,Subscription Fraud,1,7.0,64.0,121.1,145.65,14,0.0
+FRAUD1237,2023-07-20 01:29:51,Europe,Prepaid Voice,International Revenue Share Fraud,0,6.0,6.2,242.53,84.0,8,84.0
+FRAUD1238,2023-03-21 23:02:24,Africa,Prepaid Data,Subscription Fraud,1,20.9,51.3,115.91,64.18,8,0.0
+FRAUD1239,2023-01-01 01:01:12,Europe,Postpaid Voice,CLI Spoofing,1,2.1,14.4,76.53,91.94,9,0.0
+FRAUD1240,2023-04-21 16:39:04,Europe,Interconnect,Simbox,1,4.0,6.3,211.12,88.99,4,0.0
+FRAUD1241,2023-10-25 22:46:20,Americas,Prepaid Data,Subscription Fraud,1,5.8,25.6,224.35,48.73,14,0.0
+FRAUD1242,2023-09-18 23:55:51,Africa,Postpaid Voice,Simbox,0,19.6,42.5,55.39,97.2,12,97.2
+FRAUD1243,2023-08-21 08:13:50,Americas,Prepaid Voice,Subscription Fraud,1,1.0,13.1,105.42,79.37,5,0.0
+FRAUD1244,2023-03-23 23:39:26,Europe,Interconnect,CLI Spoofing,1,12.1,57.1,27.48,96.54,11,0.0
+FRAUD1245,2023-08-21 04:49:46,Asia,Prepaid Voice,Simbox,1,4.3,13.5,25.26,349.57,13,0.0
+FRAUD1246,2023-12-08 16:44:12,Americas,Interconnect,Simbox,1,22.9,10.3,148.12,93.05,14,0.0
+FRAUD1247,2023-04-30 11:53:02,Europe,Postpaid Voice,Wangiri,1,3.6,25.6,53.58,150.91,11,0.0
+FRAUD1248,2023-02-11 13:10:17,Asia,Interconnect,Subscription Fraud,0,3.4,64.2,22.44,143.98,5,143.98
+FRAUD1249,2023-05-19 14:09:34,Asia,Prepaid Voice,International Revenue Share Fraud,1,30.0,54.8,90.48,49.52,2,0.0
+FRAUD1250,2023-06-20 00:41:34,Europe,Prepaid Data,CLI Spoofing,1,2.7,89.6,124.86,51.53,12,0.0
+FRAUD1251,2023-11-20 10:55:29,Asia,Prepaid Data,International Revenue Share Fraud,1,3.9,23.8,27.63,50.06,2,0.0
+FRAUD1252,2023-05-15 23:52:12,Europe,Prepaid Voice,International Revenue Share Fraud,1,17.3,2.9,62.35,132.99,7,0.0
+FRAUD1253,2023-07-10 00:28:18,Europe,Postpaid Data,Wangiri,1,1.8,18.0,24.18,185.21,1,0.0
+FRAUD1254,2023-12-05 21:54:18,Americas,Postpaid Voice,CLI Spoofing,0,3.3,36.5,31.54,267.29,3,267.29
+FRAUD1255,2023-08-18 12:37:08,Europe,Prepaid Voice,Simbox,0,19.3,6.5,32.16,139.98,12,139.98
+FRAUD1256,2023-04-09 11:58:51,Asia,Interconnect,International Revenue Share Fraud,1,14.6,3.8,166.01,123.99,11,0.0
+FRAUD1257,2023-04-29 13:51:43,Asia,Prepaid Voice,CLI Spoofing,1,2.6,10.7,85.89,98.31,11,0.0
+FRAUD1258,2023-10-18 00:07:00,Americas,Interconnect,Subscription Fraud,1,1.8,65.1,110.5,168.67,1,0.0
+FRAUD1259,2023-06-29 10:58:36,Americas,Postpaid Voice,Subscription Fraud,1,6.6,39.9,123.86,110.61,12,0.0
+FRAUD1260,2023-08-24 04:25:31,Europe,Prepaid Data,CLI Spoofing,1,31.4,14.5,168.36,179.14,11,0.0
+FRAUD1261,2023-07-20 17:59:17,Americas,Prepaid Data,International Revenue Share Fraud,1,20.3,23.6,38.5,123.69,9,0.0
+FRAUD1262,2023-03-08 05:58:28,Africa,Prepaid Voice,International Revenue Share Fraud,1,40.1,10.3,71.53,259.42,12,0.0
+FRAUD1263,2023-05-03 16:17:26,Americas,Interconnect,CLI Spoofing,1,64.9,89.9,34.45,236.4,13,0.0
+FRAUD1264,2023-02-23 09:11:58,Americas,Postpaid Voice,Wangiri,1,16.5,13.7,162.76,91.34,12,0.0
+FRAUD1265,2023-10-17 12:38:36,Americas,Prepaid Data,Subscription Fraud,1,1.2,9.8,124.35,123.46,4,0.0
+FRAUD1266,2023-07-19 12:14:01,Europe,Prepaid Voice,Subscription Fraud,0,3.4,31.0,120.79,127.55,8,127.55
+FRAUD1267,2023-09-05 19:07:53,Europe,Postpaid Data,Subscription Fraud,1,7.9,8.9,140.27,194.17,9,0.0
+FRAUD1268,2023-09-18 09:54:11,Americas,Interconnect,Simbox,0,6.5,27.0,77.37,217.85,6,217.85
+FRAUD1269,2023-06-02 00:45:46,Africa,Postpaid Voice,Simbox,0,13.1,12.3,12.9,41.25,3,41.25
+FRAUD1270,2023-08-15 16:48:17,Africa,Interconnect,CLI Spoofing,1,13.4,63.6,152.7,77.83,11,0.0
+FRAUD1271,2023-10-10 07:16:19,Europe,Postpaid Voice,International Revenue Share Fraud,1,6.0,49.9,48.07,265.12,13,0.0
+FRAUD1272,2023-01-17 13:02:45,Americas,Interconnect,International Revenue Share Fraud,0,6.2,18.9,74.27,59.06,5,59.06
+FRAUD1273,2023-01-21 02:14:26,Asia,Prepaid Voice,Wangiri,1,3.4,46.2,151.62,48.02,4,0.0
+FRAUD1274,2023-08-22 19:18:07,Africa,Interconnect,CLI Spoofing,1,42.3,20.4,130.42,115.81,11,0.0
+FRAUD1275,2023-04-19 02:40:58,Asia,Postpaid Voice,Subscription Fraud,1,0.8,6.5,17.08,102.63,4,0.0
+FRAUD1276,2023-10-28 21:51:04,Africa,Prepaid Data,Simbox,1,1.3,24.7,58.32,54.69,1,0.0
+FRAUD1277,2023-11-24 05:53:17,Asia,Postpaid Data,CLI Spoofing,1,1.4,34.0,38.48,202.66,11,0.0
+FRAUD1278,2023-06-25 03:05:03,Asia,Prepaid Data,CLI Spoofing,1,29.2,1.9,58.46,166.41,1,0.0
+FRAUD1279,2023-09-17 01:07:36,Asia,Prepaid Voice,CLI Spoofing,1,6.0,2.6,84.55,67.48,6,0.0
+FRAUD1280,2023-02-28 15:53:35,Africa,Prepaid Voice,Wangiri,1,11.5,5.9,10.34,302.21,11,0.0
+FRAUD1281,2023-05-31 05:50:49,Africa,Interconnect,Simbox,1,9.2,123.5,16.66,157.64,12,0.0
+FRAUD1282,2023-08-17 10:42:49,Americas,Prepaid Voice,Simbox,0,5.6,7.5,78.22,195.42,4,195.42
+FRAUD1283,2023-09-22 01:00:14,Asia,Interconnect,Simbox,1,13.3,12.3,66.87,23.67,4,0.0
+FRAUD1284,2023-07-26 04:50:45,Americas,Prepaid Data,CLI Spoofing,1,0.6,49.9,90.62,97.63,4,0.0
+FRAUD1285,2023-12-30 09:01:47,Africa,Interconnect,Wangiri,1,24.6,52.4,81.66,123.86,3,0.0
+FRAUD1286,2023-03-01 10:11:29,Asia,Prepaid Data,CLI Spoofing,1,7.5,5.8,130.82,101.53,3,0.0
+FRAUD1287,2023-12-21 23:28:25,Europe,Interconnect,Simbox,1,12.7,5.3,158.34,81.17,12,0.0
+FRAUD1288,2023-06-21 22:18:40,Africa,Postpaid Data,International Revenue Share Fraud,1,2.2,1.2,142.48,22.88,14,0.0
+FRAUD1289,2023-07-01 19:56:58,Asia,Prepaid Voice,International Revenue Share Fraud,0,0.5,8.9,15.89,28.25,11,28.25
+FRAUD1290,2023-12-30 04:58:25,Africa,Prepaid Voice,Subscription Fraud,0,1.1,39.4,299.19,115.61,1,115.61
+FRAUD1291,2023-06-01 12:17:10,Europe,Postpaid Voice,Wangiri,1,40.4,8.1,69.16,111.0,13,0.0
+FRAUD1292,2023-12-03 07:18:58,Americas,Interconnect,Subscription Fraud,1,3.7,13.1,65.74,113.78,13,0.0
+FRAUD1293,2023-08-02 09:17:24,Europe,Prepaid Voice,International Revenue Share Fraud,1,2.2,23.0,78.99,170.93,2,0.0
+FRAUD1294,2023-03-21 19:05:28,Europe,Postpaid Voice,CLI Spoofing,1,25.0,9.8,84.74,82.63,5,0.0
+FRAUD1295,2023-04-17 20:33:40,Europe,Interconnect,Simbox,1,27.0,17.3,2.8,63.22,4,0.0
+FRAUD1296,2023-06-13 11:56:12,Americas,Prepaid Voice,Subscription Fraud,1,7.5,21.3,30.69,293.29,11,0.0
+FRAUD1297,2023-02-14 12:13:11,Americas,Interconnect,CLI Spoofing,1,2.2,3.4,74.76,151.74,11,0.0
+FRAUD1298,2023-11-30 15:06:28,Africa,Interconnect,Simbox,1,11.5,36.5,35.35,72.32,5,0.0
+FRAUD1299,2023-09-08 04:20:54,Asia,Interconnect,CLI Spoofing,1,10.3,23.7,86.9,40.13,3,0.0
+FRAUD1300,2023-02-08 11:53:18,Europe,Prepaid Voice,International Revenue Share Fraud,0,10.7,41.9,70.87,174.79,6,174.79
+FRAUD1301,2023-10-05 08:42:30,Asia,Postpaid Data,Subscription Fraud,1,2.9,35.8,95.4,475.8,3,0.0
+FRAUD1302,2023-03-28 08:52:42,Asia,Postpaid Voice,International Revenue Share Fraud,0,5.5,43.6,44.4,280.61,3,280.61
+FRAUD1303,2023-04-18 07:17:15,Europe,Prepaid Data,Subscription Fraud,1,2.7,20.7,46.02,204.28,9,0.0
+FRAUD1304,2023-12-03 10:09:41,Americas,Postpaid Voice,CLI Spoofing,1,2.9,39.7,122.99,368.35,7,0.0
+FRAUD1305,2023-07-19 15:32:29,Africa,Postpaid Voice,International Revenue Share Fraud,1,10.1,35.3,57.95,139.47,5,0.0
+FRAUD1306,2023-10-01 08:52:43,Asia,Prepaid Data,Subscription Fraud,0,5.8,14.2,109.36,56.89,2,56.89
+FRAUD1307,2023-01-02 02:47:55,Asia,Postpaid Data,Simbox,0,11.5,8.0,233.68,104.68,3,104.68
+FRAUD1308,2023-01-28 21:34:10,Asia,Interconnect,International Revenue Share Fraud,1,15.7,15.2,84.85,56.65,13,0.0
+FRAUD1309,2023-05-28 22:45:27,Africa,Postpaid Data,CLI Spoofing,1,10.8,3.6,161.1,84.19,3,0.0
+FRAUD1310,2023-01-08 10:00:48,Africa,Postpaid Data,Subscription Fraud,1,21.9,0.4,73.84,163.48,2,0.0
+FRAUD1311,2023-10-21 22:32:26,Asia,Prepaid Voice,International Revenue Share Fraud,1,23.0,12.3,100.18,49.91,14,0.0
+FRAUD1312,2023-09-11 12:29:56,Europe,Postpaid Voice,International Revenue Share Fraud,0,15.7,57.5,122.73,25.9,9,25.9
+FRAUD1313,2023-02-17 23:07:56,Europe,Prepaid Data,Simbox,1,37.2,1.7,37.93,190.04,14,0.0
+FRAUD1314,2023-09-08 19:18:14,Asia,Prepaid Voice,Simbox,1,14.6,22.0,171.29,239.73,6,0.0
+FRAUD1315,2023-10-22 11:01:04,Europe,Postpaid Data,Wangiri,1,14.5,11.4,61.7,141.72,13,0.0
+FRAUD1316,2023-08-16 18:44:18,Americas,Postpaid Voice,Wangiri,1,0.1,60.2,99.6,256.09,10,0.0
+FRAUD1317,2023-12-08 18:24:33,Africa,Prepaid Data,CLI Spoofing,1,16.4,1.7,62.94,150.35,5,0.0
+FRAUD1318,2023-03-01 11:20:20,Africa,Interconnect,Simbox,1,58.0,41.6,73.8,44.27,6,0.0
+FRAUD1319,2023-11-26 13:19:53,Asia,Interconnect,Wangiri,1,0.0,44.6,105.87,57.39,7,0.0
+FRAUD1320,2023-09-29 09:15:37,Asia,Interconnect,International Revenue Share Fraud,0,20.3,57.0,131.0,203.91,5,203.91
+FRAUD1321,2023-04-29 22:16:02,Europe,Prepaid Voice,Subscription Fraud,1,27.8,35.2,34.0,102.07,5,0.0
+FRAUD1322,2023-12-07 11:30:52,Americas,Postpaid Voice,International Revenue Share Fraud,1,35.0,50.9,8.39,344.09,3,0.0
+FRAUD1323,2023-03-18 00:22:27,Africa,Prepaid Data,Wangiri,0,20.8,83.7,33.65,158.14,7,158.14
+FRAUD1324,2023-04-12 15:49:32,Americas,Prepaid Data,CLI Spoofing,1,9.5,3.1,58.83,230.47,13,0.0
+FRAUD1325,2023-03-17 12:00:20,Asia,Prepaid Data,CLI Spoofing,1,25.0,6.1,126.33,85.6,3,0.0
+FRAUD1326,2023-10-07 18:27:47,Asia,Prepaid Data,International Revenue Share Fraud,1,2.3,20.9,64.32,131.09,2,0.0
+FRAUD1327,2023-01-21 10:44:27,Africa,Postpaid Data,Wangiri,1,0.2,39.9,139.29,233.37,3,0.0
+FRAUD1328,2023-04-12 02:36:38,Europe,Postpaid Voice,CLI Spoofing,1,3.8,13.0,106.5,58.71,5,0.0
+FRAUD1329,2023-01-10 08:52:49,Africa,Interconnect,Subscription Fraud,1,25.7,1.1,17.13,120.98,11,0.0
+FRAUD1330,2023-10-17 13:07:00,Asia,Postpaid Voice,Subscription Fraud,1,27.2,34.1,103.37,99.77,14,0.0
+FRAUD1331,2023-12-22 22:53:39,Europe,Postpaid Data,CLI Spoofing,1,17.2,21.6,20.8,157.05,12,0.0
+FRAUD1332,2023-02-09 21:24:37,Americas,Prepaid Voice,Wangiri,1,0.1,21.6,115.22,259.64,7,0.0
+FRAUD1333,2023-09-12 15:50:16,Europe,Prepaid Data,Subscription Fraud,1,8.4,32.9,34.71,101.22,12,0.0
+FRAUD1334,2023-01-11 11:52:12,Africa,Postpaid Voice,Wangiri,1,28.0,36.7,64.5,62.88,6,0.0
+FRAUD1335,2023-01-24 19:58:23,Asia,Postpaid Data,Simbox,1,20.4,87.0,19.63,54.66,8,0.0
+FRAUD1336,2023-01-01 21:32:25,Americas,Postpaid Voice,Subscription Fraud,1,4.3,11.1,22.45,125.79,3,0.0
+FRAUD1337,2023-03-18 20:21:39,Africa,Postpaid Voice,CLI Spoofing,1,32.0,0.1,84.0,164.71,4,0.0
+FRAUD1338,2023-04-14 18:32:09,Americas,Postpaid Data,International Revenue Share Fraud,1,2.3,15.6,223.77,55.96,3,0.0
+FRAUD1339,2023-12-12 21:31:54,Americas,Interconnect,Wangiri,0,4.6,9.4,105.9,330.26,12,330.26
+FRAUD1340,2023-03-18 11:45:06,Asia,Postpaid Voice,CLI Spoofing,1,2.9,64.3,123.02,175.89,6,0.0
+FRAUD1341,2023-10-12 09:32:58,Asia,Interconnect,International Revenue Share Fraud,1,17.7,3.5,49.28,172.24,12,0.0
+FRAUD1342,2023-12-19 14:09:36,Europe,Postpaid Voice,Wangiri,1,4.5,64.7,85.43,55.41,3,0.0
+FRAUD1343,2023-12-24 14:38:54,Asia,Postpaid Data,Wangiri,1,5.5,22.8,139.95,157.57,6,0.0
+FRAUD1344,2023-06-21 16:11:57,Europe,Prepaid Voice,Subscription Fraud,1,3.0,23.1,20.38,236.95,13,0.0
+FRAUD1345,2023-02-12 08:13:31,Asia,Postpaid Voice,Wangiri,1,0.9,36.6,256.76,195.16,1,0.0
+FRAUD1346,2023-08-18 01:36:22,Americas,Prepaid Voice,International Revenue Share Fraud,1,18.1,23.1,43.97,115.6,7,0.0
+FRAUD1347,2023-06-07 15:08:24,Europe,Prepaid Voice,Subscription Fraud,1,26.9,13.1,154.36,215.23,3,0.0
+FRAUD1348,2023-02-27 19:28:38,Africa,Postpaid Voice,International Revenue Share Fraud,1,2.0,19.6,35.94,57.36,6,0.0
+FRAUD1349,2023-04-28 18:09:11,Americas,Postpaid Data,Wangiri,1,6.1,32.2,36.1,65.23,2,0.0
+FRAUD1350,2023-07-21 04:27:19,Americas,Prepaid Data,Wangiri,1,1.4,47.5,74.52,349.64,12,0.0
+FRAUD1351,2023-03-17 16:57:40,Americas,Prepaid Voice,Simbox,1,3.6,22.6,38.63,33.13,7,0.0
+FRAUD1352,2023-01-28 09:15:07,Europe,Interconnect,Simbox,1,1.3,60.8,21.56,173.76,6,0.0
+FRAUD1353,2023-04-11 20:18:27,Africa,Prepaid Data,CLI Spoofing,1,32.8,14.3,304.1,104.78,5,0.0
+FRAUD1354,2023-07-10 16:15:48,Europe,Postpaid Data,CLI Spoofing,1,21.4,0.1,151.05,72.64,4,0.0
+FRAUD1355,2023-01-04 05:22:49,Americas,Prepaid Data,International Revenue Share Fraud,1,30.4,5.2,112.05,116.35,2,0.0
+FRAUD1356,2023-04-15 20:52:06,Americas,Prepaid Data,Subscription Fraud,1,9.0,22.2,96.16,181.36,8,0.0
+FRAUD1357,2023-07-26 03:25:38,Europe,Postpaid Data,CLI Spoofing,1,3.2,50.9,175.04,143.02,12,0.0
+FRAUD1358,2023-07-06 19:13:32,Europe,Prepaid Voice,CLI Spoofing,1,3.4,56.9,16.46,251.4,7,0.0
+FRAUD1359,2023-06-30 20:08:18,Americas,Prepaid Data,International Revenue Share Fraud,0,7.8,27.2,110.23,114.49,12,114.49
+FRAUD1360,2023-12-03 02:36:01,Asia,Postpaid Data,Wangiri,1,15.5,11.1,186.26,120.24,4,0.0
+FRAUD1361,2023-09-27 02:59:29,Africa,Postpaid Voice,International Revenue Share Fraud,0,21.1,40.5,47.98,154.65,9,154.65
+FRAUD1362,2023-02-11 06:12:21,Americas,Interconnect,Subscription Fraud,1,29.8,35.7,181.0,244.69,3,0.0
+FRAUD1363,2023-07-02 14:01:41,Africa,Interconnect,CLI Spoofing,0,15.9,20.0,215.71,116.22,2,116.22
+FRAUD1364,2023-05-20 03:58:42,Americas,Prepaid Voice,CLI Spoofing,1,4.1,32.4,48.64,96.39,1,0.0
+FRAUD1365,2023-08-16 17:46:12,Americas,Interconnect,Simbox,1,2.5,69.2,61.11,114.74,11,0.0
+FRAUD1366,2023-06-29 21:27:27,Europe,Prepaid Voice,International Revenue Share Fraud,1,9.4,16.6,54.93,183.7,9,0.0
+FRAUD1367,2023-05-28 15:09:17,Americas,Interconnect,International Revenue Share Fraud,0,25.2,9.5,145.37,275.03,11,275.03
+FRAUD1368,2023-09-11 14:44:19,Europe,Prepaid Voice,CLI Spoofing,1,13.4,25.0,71.64,105.89,6,0.0
+FRAUD1369,2023-06-05 23:48:38,Asia,Postpaid Voice,International Revenue Share Fraud,1,10.0,13.5,35.65,260.85,2,0.0
+FRAUD1370,2023-03-13 01:56:34,Americas,Postpaid Voice,CLI Spoofing,1,0.3,9.2,98.69,234.68,5,0.0
+FRAUD1371,2023-04-17 05:33:04,Europe,Prepaid Voice,Wangiri,1,5.1,11.3,245.17,113.72,1,0.0
+FRAUD1372,2023-09-10 05:31:23,Europe,Postpaid Data,International Revenue Share Fraud,1,25.4,22.6,74.49,48.0,4,0.0
+FRAUD1373,2023-05-02 16:11:17,Europe,Postpaid Data,International Revenue Share Fraud,1,28.1,0.2,49.83,171.24,10,0.0
+FRAUD1374,2023-05-17 01:14:18,Europe,Postpaid Voice,Wangiri,1,51.5,30.1,109.03,121.82,9,0.0
+FRAUD1375,2023-03-17 03:11:42,Africa,Postpaid Data,Subscription Fraud,1,17.5,44.0,105.62,63.65,2,0.0
+FRAUD1376,2023-01-19 10:14:58,Americas,Interconnect,International Revenue Share Fraud,0,16.6,0.9,11.0,166.75,9,166.75
+FRAUD1377,2023-08-22 00:36:23,Americas,Interconnect,International Revenue Share Fraud,1,38.4,19.3,49.17,184.71,2,0.0
+FRAUD1378,2023-04-14 20:56:34,Africa,Postpaid Voice,Wangiri,1,2.9,0.7,62.02,255.17,11,0.0
+FRAUD1379,2023-06-14 11:59:48,Europe,Postpaid Data,Wangiri,1,1.3,8.6,11.93,365.02,11,0.0
+FRAUD1380,2023-07-11 14:31:01,Europe,Prepaid Data,Simbox,1,12.1,19.5,54.49,304.23,2,0.0
+FRAUD1381,2023-10-29 02:44:17,Africa,Postpaid Data,Simbox,1,46.5,50.2,278.09,138.93,10,0.0
+FRAUD1382,2023-05-06 18:20:35,Europe,Prepaid Data,Subscription Fraud,1,6.2,11.1,164.51,117.29,14,0.0
+FRAUD1383,2023-11-20 06:31:12,Americas,Prepaid Data,Simbox,1,12.1,1.3,193.97,276.71,8,0.0
+FRAUD1384,2023-09-30 22:01:25,Americas,Postpaid Data,International Revenue Share Fraud,1,6.8,1.7,68.92,125.5,4,0.0
+FRAUD1385,2023-02-04 02:54:26,Asia,Prepaid Data,Subscription Fraud,1,13.8,29.8,90.13,182.67,10,0.0
+FRAUD1386,2023-10-29 18:58:42,Americas,Postpaid Data,International Revenue Share Fraud,0,1.0,12.5,79.37,80.5,6,80.5
+FRAUD1387,2023-12-29 15:31:26,Africa,Interconnect,CLI Spoofing,1,17.0,15.2,40.08,141.19,11,0.0
+FRAUD1388,2023-02-08 17:01:32,Africa,Postpaid Voice,Simbox,1,13.0,50.9,73.51,84.4,11,0.0
+FRAUD1389,2023-05-24 06:31:27,Asia,Interconnect,Simbox,1,10.4,54.0,161.38,82.55,6,0.0
+FRAUD1390,2023-02-05 23:20:35,Asia,Prepaid Data,Subscription Fraud,1,25.4,35.0,154.64,66.35,12,0.0
+FRAUD1391,2023-12-22 11:09:49,Africa,Prepaid Voice,International Revenue Share Fraud,0,2.5,12.6,106.73,69.22,3,69.22
+FRAUD1392,2023-03-10 22:10:13,Europe,Interconnect,Simbox,1,5.5,36.4,180.05,177.27,8,0.0
+FRAUD1393,2023-12-13 02:27:13,Africa,Prepaid Data,International Revenue Share Fraud,1,5.9,28.8,23.61,76.27,11,0.0
+FRAUD1394,2023-03-02 19:33:13,Europe,Prepaid Data,Subscription Fraud,1,40.2,55.8,22.65,203.52,2,0.0
+FRAUD1395,2023-06-19 03:23:56,Asia,Prepaid Data,Simbox,1,27.5,73.6,95.75,290.41,14,0.0
+FRAUD1396,2023-10-24 07:01:38,Asia,Interconnect,Wangiri,1,25.7,2.6,71.0,323.72,10,0.0
+FRAUD1397,2023-02-23 02:32:42,Asia,Postpaid Data,Subscription Fraud,1,17.6,19.3,231.19,150.04,1,0.0
+FRAUD1398,2023-12-26 18:46:03,Europe,Prepaid Data,International Revenue Share Fraud,1,2.1,11.6,27.37,37.68,14,0.0
+FRAUD1399,2023-06-08 21:37:55,Europe,Postpaid Data,Subscription Fraud,1,47.8,8.7,167.62,110.84,2,0.0
+FRAUD1400,2023-08-25 08:11:10,Europe,Postpaid Voice,Simbox,1,3.7,12.3,351.5,99.43,8,0.0
+FRAUD1401,2023-06-01 13:34:07,Europe,Interconnect,International Revenue Share Fraud,1,5.9,9.1,37.15,372.3,1,0.0
+FRAUD1402,2023-12-27 19:06:42,Africa,Interconnect,Subscription Fraud,1,3.4,28.3,280.2,77.85,10,0.0
+FRAUD1403,2023-01-01 18:49:57,Asia,Postpaid Voice,Wangiri,1,4.8,35.5,98.81,60.28,3,0.0
+FRAUD1404,2023-09-23 22:04:15,Americas,Prepaid Data,Wangiri,1,4.8,3.1,174.44,66.8,10,0.0
+FRAUD1405,2023-04-25 21:05:24,Europe,Interconnect,Wangiri,0,16.3,60.6,40.05,174.35,3,174.35
+FRAUD1406,2023-09-13 19:12:53,Africa,Postpaid Data,CLI Spoofing,1,19.8,40.8,244.78,205.34,6,0.0
+FRAUD1407,2023-07-05 03:08:38,Americas,Interconnect,Wangiri,1,5.7,8.8,52.38,139.85,8,0.0
+FRAUD1408,2023-03-13 23:46:02,Americas,Postpaid Data,International Revenue Share Fraud,1,10.0,3.2,96.38,93.02,4,0.0
+FRAUD1409,2023-01-01 13:54:39,Asia,Prepaid Voice,Wangiri,0,6.2,14.8,131.88,92.34,6,92.34
+FRAUD1410,2023-09-02 02:24:07,Americas,Postpaid Data,International Revenue Share Fraud,1,4.5,40.7,16.14,178.9,14,0.0
+FRAUD1411,2023-01-28 09:12:44,Africa,Prepaid Data,Subscription Fraud,1,5.3,0.3,148.34,184.56,5,0.0
+FRAUD1412,2023-06-09 00:42:03,Americas,Prepaid Data,Simbox,1,8.3,33.9,52.06,158.98,7,0.0
+FRAUD1413,2023-11-27 02:40:11,Asia,Prepaid Data,CLI Spoofing,1,5.9,9.2,191.51,136.51,6,0.0
+FRAUD1414,2023-02-23 11:17:48,Africa,Prepaid Data,Simbox,1,19.0,3.5,40.66,188.79,3,0.0
+FRAUD1415,2023-05-22 00:07:22,Americas,Interconnect,International Revenue Share Fraud,1,1.7,14.0,48.75,198.63,2,0.0
+FRAUD1416,2023-06-18 17:03:37,Americas,Postpaid Voice,Wangiri,1,2.7,11.6,202.55,137.11,7,0.0
+FRAUD1417,2023-05-14 15:23:35,Asia,Prepaid Data,Wangiri,1,0.2,46.5,200.14,229.17,9,0.0
+FRAUD1418,2023-07-30 13:03:20,Americas,Prepaid Voice,Subscription Fraud,1,29.6,26.0,264.27,221.02,14,0.0
+FRAUD1419,2023-07-31 01:12:09,Africa,Postpaid Voice,Subscription Fraud,1,1.0,13.5,43.94,47.52,12,0.0
+FRAUD1420,2023-03-18 18:21:58,Europe,Prepaid Voice,Wangiri,0,0.2,78.8,38.89,23.7,13,23.7
+FRAUD1421,2023-11-16 20:29:44,Americas,Prepaid Data,International Revenue Share Fraud,1,13.4,37.5,93.79,121.52,7,0.0
+FRAUD1422,2023-09-03 10:46:52,Europe,Prepaid Voice,International Revenue Share Fraud,1,4.2,107.0,206.8,151.15,3,0.0
+FRAUD1423,2023-09-08 18:56:13,Africa,Postpaid Data,CLI Spoofing,0,13.2,7.9,65.41,202.02,4,202.02
+FRAUD1424,2023-03-06 10:47:52,Americas,Interconnect,CLI Spoofing,0,19.5,57.2,40.27,145.99,6,145.99
+FRAUD1425,2023-03-30 00:33:31,Africa,Prepaid Voice,CLI Spoofing,1,3.0,11.9,42.75,61.06,8,0.0
+FRAUD1426,2023-05-28 15:19:24,Americas,Postpaid Voice,Subscription Fraud,1,4.1,5.7,99.35,48.86,9,0.0
+FRAUD1427,2023-11-29 21:38:44,Asia,Prepaid Voice,International Revenue Share Fraud,0,7.1,2.8,42.56,168.35,4,168.35
+FRAUD1428,2023-05-12 11:25:10,Europe,Postpaid Data,Wangiri,1,3.6,21.2,98.96,56.78,4,0.0
+FRAUD1429,2023-11-20 04:13:26,Europe,Postpaid Data,CLI Spoofing,1,18.6,5.4,196.78,106.33,2,0.0
+FRAUD1430,2023-04-17 03:28:30,Americas,Postpaid Voice,Subscription Fraud,0,3.6,37.2,9.74,123.42,7,123.42
+FRAUD1431,2023-07-29 12:04:03,Americas,Postpaid Voice,Simbox,1,19.9,18.8,53.46,143.15,5,0.0
+FRAUD1432,2023-08-19 16:21:10,Africa,Interconnect,CLI Spoofing,1,24.3,0.9,17.25,162.32,8,0.0
+FRAUD1433,2023-02-10 09:36:14,Asia,Prepaid Data,Wangiri,1,5.8,17.5,14.0,60.31,9,0.0
+FRAUD1434,2023-02-16 08:25:39,Americas,Prepaid Voice,CLI Spoofing,1,40.6,21.4,177.23,143.08,4,0.0
+FRAUD1435,2023-10-06 15:20:47,Africa,Postpaid Data,Subscription Fraud,1,13.2,18.6,47.01,70.57,3,0.0
+FRAUD1436,2023-01-19 18:52:32,Asia,Postpaid Voice,Subscription Fraud,1,19.9,6.2,90.62,92.42,1,0.0
+FRAUD1437,2023-04-27 12:21:17,Asia,Postpaid Voice,CLI Spoofing,1,9.4,3.1,73.26,120.94,13,0.0
+FRAUD1438,2023-12-22 14:49:03,Americas,Prepaid Data,Wangiri,1,12.5,29.7,100.83,101.32,5,0.0
+FRAUD1439,2023-01-06 18:50:44,Americas,Interconnect,Wangiri,1,0.1,27.3,40.15,179.93,13,0.0
+FRAUD1440,2023-10-15 11:03:31,Asia,Postpaid Voice,CLI Spoofing,1,4.7,37.4,286.32,254.07,2,0.0
+FRAUD1441,2023-06-23 14:18:25,Europe,Postpaid Voice,Simbox,1,12.8,2.5,27.52,96.26,13,0.0
+FRAUD1442,2023-04-12 03:57:22,Europe,Interconnect,International Revenue Share Fraud,1,13.1,26.3,59.51,28.11,10,0.0
+FRAUD1443,2023-10-05 05:21:43,Asia,Prepaid Voice,Wangiri,1,11.1,3.2,234.6,86.64,2,0.0
+FRAUD1444,2023-03-03 05:46:19,Africa,Prepaid Voice,Simbox,1,19.7,10.0,89.26,121.48,11,0.0
+FRAUD1445,2023-09-24 15:29:17,Asia,Interconnect,CLI Spoofing,1,5.0,64.7,204.1,132.22,3,0.0
+FRAUD1446,2023-04-07 13:51:16,Asia,Postpaid Data,Simbox,1,8.4,3.5,124.9,112.88,1,0.0
+FRAUD1447,2023-04-26 00:23:09,Europe,Postpaid Voice,Simbox,1,2.4,9.3,40.81,181.56,5,0.0
+FRAUD1448,2023-12-30 05:30:12,Africa,Postpaid Data,Wangiri,1,9.2,39.4,72.29,69.92,5,0.0
+FRAUD1449,2023-12-05 00:02:58,Europe,Postpaid Data,Simbox,1,3.5,8.7,90.32,154.26,10,0.0
+FRAUD1450,2023-10-13 09:41:14,Africa,Prepaid Voice,Simbox,1,0.3,11.5,45.24,65.25,1,0.0
+FRAUD1451,2023-09-25 20:21:10,Europe,Postpaid Data,Subscription Fraud,1,11.6,38.1,113.73,97.54,14,0.0
+FRAUD1452,2023-05-15 07:49:36,Asia,Postpaid Data,Subscription Fraud,1,4.1,5.1,90.76,168.31,11,0.0
+FRAUD1453,2023-09-21 10:33:23,Africa,Prepaid Voice,Wangiri,1,10.0,14.6,18.53,277.21,13,0.0
+FRAUD1454,2023-12-29 01:59:28,Africa,Interconnect,Simbox,0,7.0,4.9,54.11,86.36,8,86.36
+FRAUD1455,2023-08-01 10:15:12,Africa,Prepaid Data,CLI Spoofing,1,2.3,7.1,80.64,170.05,9,0.0
+FRAUD1456,2023-01-22 22:30:12,Asia,Prepaid Voice,International Revenue Share Fraud,1,10.5,31.4,121.81,122.03,5,0.0
+FRAUD1457,2023-10-31 05:25:56,Europe,Postpaid Voice,Simbox,1,45.6,5.8,127.81,45.54,14,0.0
+FRAUD1458,2023-05-21 21:29:49,Americas,Prepaid Data,Simbox,1,6.2,21.4,145.85,71.39,5,0.0
+FRAUD1459,2023-01-20 13:50:10,Asia,Prepaid Data,International Revenue Share Fraud,1,8.2,4.8,228.14,148.18,14,0.0
+FRAUD1460,2023-09-24 09:57:50,Asia,Postpaid Data,Simbox,1,0.9,30.8,43.87,78.36,6,0.0
+FRAUD1461,2023-06-25 10:10:10,Africa,Postpaid Voice,Simbox,1,21.2,20.6,53.87,366.97,9,0.0
+FRAUD1462,2023-04-18 20:18:53,Asia,Prepaid Voice,International Revenue Share Fraud,1,35.5,6.1,87.08,297.58,3,0.0
+FRAUD1463,2023-10-23 04:36:32,Africa,Interconnect,Simbox,1,28.4,22.2,45.37,39.81,4,0.0
+FRAUD1464,2023-07-29 08:01:17,Asia,Interconnect,Simbox,1,10.8,1.0,169.62,309.35,10,0.0
+FRAUD1465,2023-12-07 14:14:41,Asia,Postpaid Data,Wangiri,1,9.8,12.9,362.21,179.24,11,0.0
+FRAUD1466,2023-01-07 18:54:01,Americas,Interconnect,International Revenue Share Fraud,1,3.0,6.5,123.98,78.87,8,0.0
+FRAUD1467,2023-04-12 13:01:07,Asia,Postpaid Data,Simbox,1,0.1,44.2,22.16,76.54,12,0.0
+FRAUD1468,2023-11-02 03:48:50,Asia,Postpaid Voice,Subscription Fraud,1,17.9,68.2,66.98,188.17,8,0.0
+FRAUD1469,2023-11-05 06:11:18,Europe,Interconnect,CLI Spoofing,1,7.6,11.1,72.83,237.2,5,0.0
+FRAUD1470,2023-11-26 19:34:20,Americas,Postpaid Data,Wangiri,1,4.7,8.3,119.58,130.53,5,0.0
+FRAUD1471,2023-07-19 11:28:35,Americas,Prepaid Data,CLI Spoofing,1,37.2,38.4,156.11,78.34,8,0.0
+FRAUD1472,2023-06-28 08:51:45,Asia,Postpaid Voice,International Revenue Share Fraud,1,3.4,69.7,146.06,449.83,11,0.0
+FRAUD1473,2023-05-10 07:02:11,Europe,Prepaid Data,CLI Spoofing,1,3.5,2.4,26.44,24.34,12,0.0
+FRAUD1474,2023-04-04 12:42:47,Europe,Prepaid Voice,CLI Spoofing,1,3.9,56.7,10.34,111.52,1,0.0
+FRAUD1475,2023-05-30 07:09:17,Asia,Prepaid Data,CLI Spoofing,1,25.5,5.9,143.74,42.37,3,0.0
+FRAUD1476,2023-07-12 01:54:20,Europe,Postpaid Voice,CLI Spoofing,0,14.4,37.5,42.9,91.34,3,91.34
+FRAUD1477,2023-05-05 23:27:12,Asia,Prepaid Voice,CLI Spoofing,0,0.6,51.2,25.73,113.0,7,113.0
+FRAUD1478,2023-10-10 09:39:11,Americas,Prepaid Data,Subscription Fraud,0,6.9,61.4,134.72,89.48,13,89.48
+FRAUD1479,2023-03-28 07:23:09,Europe,Postpaid Data,International Revenue Share Fraud,1,32.1,29.4,61.71,151.7,6,0.0
+FRAUD1480,2023-03-07 17:38:10,Europe,Prepaid Voice,Simbox,1,2.6,25.0,29.3,232.43,9,0.0
+FRAUD1481,2023-02-01 06:32:47,Europe,Postpaid Data,International Revenue Share Fraud,1,18.2,30.4,59.36,124.68,13,0.0
+FRAUD1482,2023-09-28 13:59:14,Asia,Postpaid Data,Subscription Fraud,1,7.3,15.0,79.19,255.65,3,0.0
+FRAUD1483,2023-05-07 15:15:35,Africa,Prepaid Voice,Wangiri,1,4.1,85.7,194.1,167.77,11,0.0
+FRAUD1484,2023-12-26 18:56:42,Europe,Interconnect,Wangiri,1,11.8,4.5,142.77,171.92,4,0.0
+FRAUD1485,2023-07-07 19:46:59,Europe,Prepaid Data,CLI Spoofing,1,2.4,10.8,69.98,154.87,5,0.0
+FRAUD1486,2023-05-16 04:39:26,Americas,Postpaid Voice,Subscription Fraud,1,4.8,11.1,145.68,135.4,7,0.0
+FRAUD1487,2023-05-28 18:39:50,Europe,Postpaid Data,Wangiri,0,0.2,118.7,11.63,123.43,2,123.43
+FRAUD1488,2023-12-23 13:11:54,Africa,Prepaid Voice,International Revenue Share Fraud,1,8.6,3.2,77.71,68.64,8,0.0
+FRAUD1489,2023-01-25 02:01:47,Europe,Prepaid Voice,CLI Spoofing,1,11.9,37.2,64.06,190.68,11,0.0
+FRAUD1490,2023-05-07 11:03:20,Asia,Prepaid Voice,International Revenue Share Fraud,1,23.4,13.4,47.92,193.87,6,0.0
+FRAUD1491,2023-01-17 20:33:52,Americas,Postpaid Voice,CLI Spoofing,1,6.7,27.1,62.31,180.64,10,0.0
+FRAUD1492,2023-04-19 02:29:18,Africa,Prepaid Data,International Revenue Share Fraud,1,66.1,10.6,12.96,286.74,9,0.0
+FRAUD1493,2023-08-06 03:24:17,Asia,Interconnect,CLI Spoofing,1,11.2,59.7,23.09,48.2,2,0.0
+FRAUD1494,2023-06-05 20:28:27,Africa,Postpaid Voice,International Revenue Share Fraud,1,7.9,0.1,159.58,86.16,5,0.0
+FRAUD1495,2023-01-31 13:25:49,Europe,Prepaid Voice,CLI Spoofing,1,1.6,6.9,75.85,63.17,11,0.0
+FRAUD1496,2023-10-01 00:26:44,Africa,Postpaid Data,Subscription Fraud,1,2.7,18.7,414.68,218.39,6,0.0
+FRAUD1497,2023-01-15 12:46:27,Americas,Interconnect,Subscription Fraud,1,23.1,22.6,92.23,171.04,6,0.0
+FRAUD1498,2023-12-09 03:12:14,Asia,Postpaid Voice,Subscription Fraud,1,13.3,9.2,47.88,215.39,5,0.0
+FRAUD1499,2023-09-16 00:24:44,Asia,Prepaid Voice,Simbox,1,9.4,5.3,18.43,165.41,11,0.0
+FRAUD1500,2023-08-06 16:03:01,Asia,Postpaid Data,Wangiri,1,7.5,19.4,50.72,80.77,7,0.0
+FRAUD1501,2023-01-29 03:03:08,Europe,Interconnect,International Revenue Share Fraud,1,4.5,11.6,135.89,101.91,11,0.0
+FRAUD1502,2023-04-01 17:44:34,Asia,Prepaid Data,CLI Spoofing,1,1.0,0.8,125.06,168.65,6,0.0
+FRAUD1503,2023-06-09 08:08:45,Asia,Prepaid Voice,Wangiri,1,3.8,17.9,96.24,220.53,7,0.0
+FRAUD1504,2023-05-05 14:24:20,Africa,Prepaid Voice,Wangiri,1,2.0,7.5,76.83,160.29,2,0.0
+FRAUD1505,2023-04-23 12:47:59,Asia,Interconnect,Simbox,1,1.2,6.1,99.1,92.93,8,0.0
+FRAUD1506,2023-01-20 18:32:47,Asia,Postpaid Voice,CLI Spoofing,1,4.6,5.7,54.59,189.62,11,0.0
+FRAUD1507,2023-09-02 07:40:39,Europe,Prepaid Data,Simbox,1,7.0,26.0,32.3,118.09,10,0.0
+FRAUD1508,2023-04-18 20:34:16,Europe,Prepaid Voice,Simbox,1,4.7,3.2,92.57,43.15,4,0.0
+FRAUD1509,2023-09-09 23:32:21,Africa,Interconnect,Simbox,1,8.8,11.5,34.51,125.79,9,0.0
+FRAUD1510,2023-04-02 10:08:37,Africa,Prepaid Data,CLI Spoofing,1,6.6,23.5,25.21,143.73,6,0.0
+FRAUD1511,2023-02-01 02:59:20,Europe,Prepaid Voice,Simbox,1,25.0,7.3,104.66,35.42,11,0.0
+FRAUD1512,2023-08-02 08:09:21,Asia,Interconnect,Subscription Fraud,1,1.0,44.9,32.09,314.34,6,0.0
+FRAUD1513,2023-08-31 09:24:31,Americas,Postpaid Voice,International Revenue Share Fraud,1,4.3,31.2,144.93,51.19,10,0.0
+FRAUD1514,2023-11-17 00:28:01,Asia,Interconnect,CLI Spoofing,1,26.5,5.8,59.5,95.64,7,0.0
+FRAUD1515,2023-07-05 00:24:19,Asia,Prepaid Voice,Subscription Fraud,0,1.8,20.9,71.45,42.53,7,42.53
+FRAUD1516,2023-03-01 13:23:18,Europe,Prepaid Voice,CLI Spoofing,1,1.6,42.1,143.99,184.69,9,0.0
+FRAUD1517,2023-09-28 14:03:23,Americas,Interconnect,International Revenue Share Fraud,1,13.6,76.1,101.56,161.37,5,0.0
+FRAUD1518,2023-01-20 14:08:09,Europe,Interconnect,Subscription Fraud,0,7.7,24.4,66.56,343.04,3,343.04
+FRAUD1519,2023-12-21 21:40:41,Africa,Postpaid Voice,Subscription Fraud,1,18.2,8.6,53.12,26.26,7,0.0
+FRAUD1520,2023-09-28 16:46:41,Asia,Prepaid Data,Simbox,1,12.6,64.6,210.29,101.91,10,0.0
+FRAUD1521,2023-02-10 23:46:38,Americas,Postpaid Data,International Revenue Share Fraud,1,5.9,14.1,4.33,80.63,5,0.0
+FRAUD1522,2023-06-08 10:07:29,Europe,Prepaid Data,CLI Spoofing,0,11.9,5.6,8.71,82.69,10,82.69
+FRAUD1523,2023-12-16 14:34:46,Europe,Postpaid Data,Simbox,1,5.3,10.0,40.66,136.12,8,0.0
+FRAUD1524,2023-10-26 18:29:49,Americas,Prepaid Voice,CLI Spoofing,1,6.8,36.9,45.65,191.12,12,0.0
+FRAUD1525,2023-05-27 10:05:30,Europe,Interconnect,Simbox,1,7.9,1.0,51.94,78.6,9,0.0
+FRAUD1526,2023-06-14 07:51:14,Africa,Postpaid Data,International Revenue Share Fraud,1,2.0,38.3,24.5,90.53,14,0.0
+FRAUD1527,2023-06-13 20:53:07,Europe,Prepaid Voice,International Revenue Share Fraud,1,2.2,12.3,81.1,354.58,4,0.0
+FRAUD1528,2023-09-29 20:53:16,Asia,Postpaid Voice,Simbox,1,5.5,56.9,61.32,56.15,6,0.0
+FRAUD1529,2023-11-18 03:46:18,Africa,Prepaid Voice,International Revenue Share Fraud,1,46.5,1.5,130.15,135.25,2,0.0
+FRAUD1530,2023-12-26 17:46:31,Asia,Interconnect,International Revenue Share Fraud,1,7.6,1.5,34.71,79.96,6,0.0
+FRAUD1531,2023-10-08 12:51:05,Americas,Postpaid Data,International Revenue Share Fraud,1,1.3,8.7,15.73,161.04,1,0.0
+FRAUD1532,2023-06-15 14:59:03,Asia,Prepaid Data,Wangiri,1,1.4,19.7,100.35,97.75,6,0.0
+FRAUD1533,2023-12-18 09:15:15,Europe,Prepaid Voice,International Revenue Share Fraud,1,3.3,17.8,84.04,335.44,8,0.0
+FRAUD1534,2023-12-23 09:28:31,Europe,Prepaid Voice,International Revenue Share Fraud,1,11.9,12.1,89.38,74.49,6,0.0
+FRAUD1535,2023-06-13 06:09:29,Europe,Interconnect,Simbox,1,0.0,16.5,88.46,114.47,1,0.0
+FRAUD1536,2023-12-10 20:48:17,Europe,Prepaid Data,Subscription Fraud,1,23.7,30.5,57.31,77.26,11,0.0
+FRAUD1537,2023-07-23 13:06:06,Africa,Interconnect,Simbox,0,12.4,18.9,115.6,201.06,3,201.06
+FRAUD1538,2023-09-22 14:47:52,Europe,Prepaid Data,Subscription Fraud,0,21.8,21.1,89.35,101.52,14,101.52
+FRAUD1539,2023-04-20 06:56:50,Asia,Postpaid Voice,CLI Spoofing,0,8.5,43.3,116.33,197.7,8,197.7
+FRAUD1540,2023-02-27 03:24:31,Americas,Prepaid Data,CLI Spoofing,1,14.7,4.1,102.78,220.46,3,0.0
+FRAUD1541,2023-06-13 22:34:57,Asia,Postpaid Data,International Revenue Share Fraud,1,25.9,2.0,213.16,78.19,5,0.0
+FRAUD1542,2023-05-05 05:58:35,Europe,Postpaid Data,Simbox,1,2.2,0.6,23.64,109.04,9,0.0
+FRAUD1543,2023-01-15 14:56:20,Europe,Postpaid Voice,Simbox,1,15.9,10.2,9.05,37.74,6,0.0
+FRAUD1544,2023-11-06 18:00:25,Americas,Postpaid Data,Simbox,1,2.6,54.2,36.52,348.47,3,0.0
+FRAUD1545,2023-02-19 04:39:08,Asia,Interconnect,Simbox,1,14.0,18.9,49.43,95.89,9,0.0
+FRAUD1546,2023-03-15 09:39:18,Europe,Interconnect,Simbox,0,8.5,18.2,46.63,84.74,9,84.74
+FRAUD1547,2023-10-12 18:55:31,Americas,Interconnect,CLI Spoofing,1,26.5,13.3,36.25,53.93,11,0.0
+FRAUD1548,2023-06-16 09:35:10,Europe,Prepaid Data,Wangiri,0,2.4,7.0,40.19,239.59,12,239.59
+FRAUD1549,2023-11-03 15:52:43,Africa,Postpaid Data,Wangiri,1,0.3,28.8,135.66,185.88,5,0.0
+FRAUD1550,2023-05-13 03:09:32,Americas,Postpaid Voice,CLI Spoofing,1,13.6,10.3,147.4,195.03,10,0.0
+FRAUD1551,2023-05-24 00:33:44,Europe,Prepaid Data,International Revenue Share Fraud,1,27.5,18.1,65.79,112.88,11,0.0
+FRAUD1552,2023-07-24 20:49:39,Europe,Interconnect,CLI Spoofing,0,2.2,4.4,141.41,126.85,13,126.85
+FRAUD1553,2023-01-29 07:29:24,Europe,Prepaid Data,International Revenue Share Fraud,0,18.2,18.9,88.63,128.11,5,128.11
+FRAUD1554,2023-10-20 10:26:02,Asia,Postpaid Voice,Wangiri,1,19.4,4.8,26.8,348.82,5,0.0
+FRAUD1555,2023-02-25 13:41:29,Americas,Postpaid Data,Simbox,1,2.8,46.7,37.78,65.99,6,0.0
+FRAUD1556,2023-08-28 03:01:57,Europe,Prepaid Voice,CLI Spoofing,1,7.3,92.9,131.32,266.04,1,0.0
+FRAUD1557,2023-08-11 19:12:56,Africa,Prepaid Data,Simbox,1,3.5,8.3,169.06,260.21,14,0.0
+FRAUD1558,2023-05-18 03:59:58,Asia,Postpaid Voice,Subscription Fraud,1,7.4,2.3,144.39,106.96,12,0.0
+FRAUD1559,2023-04-05 10:25:51,Africa,Postpaid Data,Wangiri,1,2.5,37.5,90.7,116.41,13,0.0
+FRAUD1560,2023-09-26 00:39:59,Africa,Postpaid Data,International Revenue Share Fraud,0,22.2,10.9,21.22,159.77,6,159.77
+FRAUD1561,2023-05-26 03:17:41,Africa,Postpaid Data,International Revenue Share Fraud,1,0.5,0.9,286.46,117.52,6,0.0
+FRAUD1562,2023-01-06 17:11:33,Asia,Prepaid Voice,Wangiri,1,3.2,14.8,54.9,81.77,11,0.0
+FRAUD1563,2023-05-29 13:47:44,Asia,Prepaid Data,Subscription Fraud,1,5.4,24.2,178.54,322.37,11,0.0
+FRAUD1564,2023-12-28 18:29:53,Americas,Prepaid Data,International Revenue Share Fraud,1,11.2,7.7,129.3,68.04,8,0.0
+FRAUD1565,2023-02-04 14:38:28,Americas,Postpaid Voice,International Revenue Share Fraud,1,3.8,1.0,73.44,131.8,14,0.0
+FRAUD1566,2023-11-14 10:28:23,Africa,Prepaid Voice,CLI Spoofing,1,8.1,5.4,73.71,56.68,14,0.0
+FRAUD1567,2023-02-07 00:16:07,Americas,Prepaid Voice,International Revenue Share Fraud,1,3.4,12.6,232.69,70.75,3,0.0
+FRAUD1568,2023-07-14 22:55:15,Europe,Postpaid Data,Simbox,1,26.7,7.2,112.43,62.12,12,0.0
+FRAUD1569,2023-03-21 03:38:26,Asia,Prepaid Data,Simbox,1,19.9,2.1,104.73,230.1,13,0.0
+FRAUD1570,2023-10-07 15:27:14,Asia,Prepaid Data,Simbox,1,1.4,41.3,47.07,115.45,12,0.0
+FRAUD1571,2023-01-29 08:40:58,Americas,Postpaid Voice,CLI Spoofing,1,11.3,23.2,69.54,174.15,14,0.0
+FRAUD1572,2023-04-21 17:55:21,Americas,Prepaid Data,CLI Spoofing,0,33.2,7.4,19.14,96.11,4,96.11
+FRAUD1573,2023-03-13 21:22:44,Asia,Postpaid Data,Simbox,1,10.6,10.3,136.99,67.13,4,0.0
+FRAUD1574,2023-11-15 06:25:32,Africa,Postpaid Data,International Revenue Share Fraud,1,1.6,178.2,118.32,68.7,13,0.0
+FRAUD1575,2023-03-16 01:39:07,Europe,Prepaid Data,Simbox,1,3.4,47.1,121.08,292.03,4,0.0
+FRAUD1576,2023-11-20 12:51:04,Africa,Prepaid Voice,Wangiri,1,14.9,57.1,118.97,130.31,7,0.0
+FRAUD1577,2023-05-22 10:04:06,Americas,Postpaid Data,Wangiri,1,42.0,120.9,194.63,176.08,13,0.0
+FRAUD1578,2023-09-14 17:43:03,Americas,Postpaid Data,International Revenue Share Fraud,1,1.8,4.5,48.56,222.14,12,0.0
+FRAUD1579,2023-07-31 19:27:58,Africa,Postpaid Data,Wangiri,1,8.0,0.1,9.28,118.32,9,0.0
+FRAUD1580,2023-10-05 18:55:50,Americas,Prepaid Data,Subscription Fraud,1,2.6,88.4,155.39,86.1,2,0.0
+FRAUD1581,2023-12-14 19:15:39,Europe,Prepaid Voice,Simbox,1,2.2,11.0,30.44,477.31,2,0.0
+FRAUD1582,2023-03-21 23:27:07,Europe,Interconnect,Simbox,1,11.5,2.4,45.88,35.39,5,0.0
+FRAUD1583,2023-01-13 03:30:13,Asia,Prepaid Voice,Wangiri,1,8.3,33.1,171.47,56.66,14,0.0
+FRAUD1584,2023-04-15 01:56:45,Asia,Prepaid Data,Wangiri,1,30.4,48.5,102.11,81.1,3,0.0
+FRAUD1585,2023-01-12 17:53:37,Europe,Prepaid Data,Subscription Fraud,0,6.7,107.0,123.4,77.16,4,77.16
+FRAUD1586,2023-05-13 01:30:16,Africa,Postpaid Voice,Simbox,0,15.5,11.5,99.79,69.44,4,69.44
+FRAUD1587,2023-05-18 05:01:20,Europe,Postpaid Data,Wangiri,1,79.7,21.4,45.3,81.24,6,0.0
+FRAUD1588,2023-07-14 07:37:22,Asia,Prepaid Voice,International Revenue Share Fraud,1,5.4,23.0,200.47,276.79,13,0.0
+FRAUD1589,2023-11-10 19:09:52,Africa,Prepaid Data,Simbox,1,10.0,17.3,85.5,103.46,4,0.0
+FRAUD1590,2023-05-29 14:26:29,Africa,Interconnect,Simbox,1,1.1,22.6,60.18,45.29,4,0.0
+FRAUD1591,2023-09-11 20:00:55,Africa,Prepaid Voice,CLI Spoofing,1,0.5,83.7,202.95,159.27,8,0.0
+FRAUD1592,2023-05-10 07:59:36,Europe,Interconnect,Subscription Fraud,1,5.3,40.5,144.67,132.69,2,0.0
+FRAUD1593,2023-03-19 16:05:02,Asia,Postpaid Voice,Simbox,1,48.7,34.4,128.69,55.87,14,0.0
+FRAUD1594,2023-06-26 15:09:30,Asia,Postpaid Data,CLI Spoofing,0,54.2,51.0,55.81,215.17,13,215.17
+FRAUD1595,2023-01-13 15:22:23,Americas,Prepaid Voice,International Revenue Share Fraud,1,4.5,3.8,290.86,263.99,2,0.0
+FRAUD1596,2023-03-16 09:32:58,Asia,Postpaid Voice,International Revenue Share Fraud,1,16.6,13.7,181.89,149.56,1,0.0
+FRAUD1597,2023-06-25 08:57:31,Europe,Prepaid Voice,Subscription Fraud,1,4.4,26.7,18.85,246.71,13,0.0
+FRAUD1598,2023-11-15 18:40:02,Asia,Postpaid Voice,Subscription Fraud,1,4.5,52.7,41.39,149.34,11,0.0
+FRAUD1599,2023-04-17 13:57:58,Americas,Postpaid Voice,Simbox,0,7.1,2.1,71.71,130.62,3,130.62
+FRAUD1600,2023-03-31 09:39:07,Europe,Prepaid Voice,Simbox,1,3.1,12.3,4.75,203.61,9,0.0
+FRAUD1601,2023-10-31 14:45:40,Africa,Postpaid Data,CLI Spoofing,0,13.6,17.9,37.77,193.7,9,193.7
+FRAUD1602,2023-11-17 18:14:21,Americas,Prepaid Data,International Revenue Share Fraud,1,6.6,9.7,106.0,118.97,1,0.0
+FRAUD1603,2023-05-18 06:29:48,Africa,Postpaid Voice,CLI Spoofing,1,6.0,2.4,34.85,147.06,6,0.0
+FRAUD1604,2023-03-16 02:51:10,Africa,Postpaid Voice,Wangiri,1,1.2,3.7,65.26,90.35,3,0.0
+FRAUD1605,2023-02-17 08:48:49,Africa,Interconnect,Wangiri,1,24.6,78.9,30.45,340.72,5,0.0
+FRAUD1606,2023-12-18 04:02:14,Europe,Prepaid Data,Simbox,0,5.0,11.4,51.91,39.74,9,39.74
+FRAUD1607,2023-09-25 08:44:56,Asia,Prepaid Data,CLI Spoofing,1,19.9,85.9,272.73,55.06,7,0.0
+FRAUD1608,2023-04-06 20:03:56,Europe,Prepaid Voice,Subscription Fraud,1,16.9,30.9,67.77,324.53,13,0.0
+FRAUD1609,2023-05-25 01:03:32,Africa,Interconnect,Wangiri,1,2.2,6.3,60.17,90.04,4,0.0
+FRAUD1610,2023-01-13 18:18:29,Americas,Postpaid Voice,Subscription Fraud,1,26.5,37.2,113.82,138.24,3,0.0
+FRAUD1611,2023-09-14 10:54:47,Asia,Postpaid Voice,Subscription Fraud,1,4.8,27.3,207.22,290.14,10,0.0
+FRAUD1612,2023-06-18 03:42:26,Africa,Prepaid Data,Subscription Fraud,1,4.9,29.3,64.86,65.68,4,0.0
+FRAUD1613,2023-08-08 01:35:52,Americas,Postpaid Voice,Subscription Fraud,1,48.8,27.8,157.8,130.71,5,0.0
+FRAUD1614,2023-07-06 23:35:21,Americas,Postpaid Data,CLI Spoofing,1,0.5,17.2,39.27,414.4,14,0.0
+FRAUD1615,2023-09-12 20:44:07,Asia,Postpaid Data,Subscription Fraud,0,8.5,2.0,18.41,68.16,7,68.16
+FRAUD1616,2023-06-20 21:41:16,Europe,Interconnect,CLI Spoofing,1,80.7,19.2,22.88,124.92,9,0.0
+FRAUD1617,2023-11-30 07:46:27,Asia,Postpaid Data,CLI Spoofing,1,19.4,9.8,109.78,64.16,12,0.0
+FRAUD1618,2023-10-29 03:40:28,Europe,Prepaid Voice,Wangiri,1,6.4,17.3,29.27,399.52,10,0.0
+FRAUD1619,2023-12-17 02:00:38,Europe,Interconnect,Subscription Fraud,1,14.7,4.3,81.66,195.16,8,0.0
+FRAUD1620,2023-02-11 14:47:27,Asia,Prepaid Data,Wangiri,0,2.3,6.9,74.48,125.98,10,125.98
+FRAUD1621,2023-05-21 00:10:47,Africa,Interconnect,Wangiri,1,13.7,82.4,75.69,140.38,9,0.0
+FRAUD1622,2023-08-27 17:37:00,Asia,Prepaid Data,Wangiri,1,19.9,47.9,93.96,309.82,14,0.0
+FRAUD1623,2023-08-06 21:26:14,Americas,Interconnect,Wangiri,1,18.0,53.9,53.61,33.93,2,0.0
+FRAUD1624,2023-09-12 17:55:42,Europe,Postpaid Voice,Simbox,1,0.3,4.9,57.41,266.49,1,0.0
+FRAUD1625,2023-04-28 21:57:56,Africa,Prepaid Data,International Revenue Share Fraud,0,16.8,13.6,196.76,297.3,2,297.3
+FRAUD1626,2023-06-20 15:47:18,Asia,Prepaid Data,Subscription Fraud,1,3.3,9.4,20.83,318.64,3,0.0
+FRAUD1627,2023-01-21 03:48:36,Africa,Interconnect,Simbox,1,12.4,8.9,99.49,182.84,3,0.0
+FRAUD1628,2023-10-17 13:33:56,Asia,Interconnect,Simbox,1,9.1,47.8,22.92,178.42,11,0.0
+FRAUD1629,2023-12-13 06:10:21,Europe,Postpaid Data,CLI Spoofing,1,0.8,29.3,279.12,181.92,14,0.0
+FRAUD1630,2023-01-11 06:59:05,Americas,Postpaid Voice,Subscription Fraud,1,4.0,13.2,43.14,331.55,14,0.0
+FRAUD1631,2023-09-16 22:16:23,Europe,Prepaid Voice,CLI Spoofing,1,11.3,24.6,76.78,233.74,8,0.0
+FRAUD1632,2023-04-13 16:35:48,Europe,Interconnect,Simbox,1,7.9,16.8,142.56,201.24,11,0.0
+FRAUD1633,2023-10-10 01:06:07,Europe,Postpaid Voice,Simbox,1,8.9,25.8,159.0,244.84,6,0.0
+FRAUD1634,2023-10-25 13:11:21,Europe,Postpaid Data,International Revenue Share Fraud,0,32.4,38.7,44.54,41.59,12,41.59
+FRAUD1635,2023-10-15 04:55:28,Africa,Prepaid Voice,Subscription Fraud,1,1.6,8.0,89.6,45.68,11,0.0
+FRAUD1636,2023-06-29 14:09:42,Asia,Prepaid Data,Subscription Fraud,1,20.0,30.6,112.73,130.13,5,0.0
+FRAUD1637,2023-04-09 19:24:59,Americas,Interconnect,Simbox,1,28.3,19.9,17.2,125.29,7,0.0
+FRAUD1638,2023-04-09 02:16:25,Europe,Postpaid Voice,CLI Spoofing,1,8.9,18.1,198.29,62.2,4,0.0
+FRAUD1639,2023-10-28 23:04:58,Africa,Prepaid Voice,Subscription Fraud,1,26.8,27.5,5.13,334.22,4,0.0
+FRAUD1640,2023-05-05 17:39:11,Africa,Prepaid Data,Simbox,0,7.4,15.2,47.27,223.68,13,223.68
+FRAUD1641,2023-01-30 02:10:30,Africa,Prepaid Data,CLI Spoofing,1,28.9,21.2,139.86,119.39,7,0.0
+FRAUD1642,2023-08-22 15:57:43,Europe,Interconnect,CLI Spoofing,1,0.5,7.6,181.99,364.92,11,0.0
+FRAUD1643,2023-07-08 23:07:15,Africa,Prepaid Voice,Wangiri,1,3.0,14.1,164.18,135.53,9,0.0
+FRAUD1644,2023-09-03 06:42:03,Americas,Postpaid Voice,Simbox,0,3.7,34.8,83.28,372.73,12,372.73
+FRAUD1645,2023-07-20 00:45:12,Americas,Interconnect,International Revenue Share Fraud,1,0.7,20.7,97.72,93.01,12,0.0
+FRAUD1646,2023-09-01 08:53:22,Americas,Postpaid Voice,Simbox,1,2.6,7.5,84.2,333.42,14,0.0
+FRAUD1647,2023-02-06 20:39:51,Africa,Prepaid Voice,Subscription Fraud,1,23.0,79.6,5.34,46.39,11,0.0
+FRAUD1648,2023-04-17 06:39:50,Europe,Prepaid Voice,CLI Spoofing,1,7.1,83.5,432.71,176.47,8,0.0
+FRAUD1649,2023-11-16 03:21:18,Asia,Postpaid Voice,CLI Spoofing,1,7.1,2.3,239.89,180.8,6,0.0
+FRAUD1650,2023-06-14 19:00:09,Europe,Prepaid Data,CLI Spoofing,1,14.5,36.8,161.81,87.85,5,0.0
+FRAUD1651,2023-12-01 02:01:27,Europe,Prepaid Voice,Wangiri,1,13.5,18.6,223.04,147.65,10,0.0
+FRAUD1652,2023-04-28 11:50:12,Europe,Postpaid Data,International Revenue Share Fraud,1,1.9,2.0,250.75,96.09,4,0.0
+FRAUD1653,2023-05-06 00:46:55,Africa,Postpaid Data,Subscription Fraud,1,13.5,1.7,33.12,130.24,10,0.0
+FRAUD1654,2023-08-03 13:16:44,Europe,Prepaid Voice,Subscription Fraud,1,3.0,6.9,47.06,163.14,14,0.0
+FRAUD1655,2023-11-01 21:43:06,Americas,Postpaid Voice,Subscription Fraud,1,9.0,94.1,177.83,153.73,9,0.0
+FRAUD1656,2023-07-04 02:52:13,Europe,Postpaid Data,Subscription Fraud,1,1.5,27.7,46.84,242.52,10,0.0
+FRAUD1657,2023-02-26 12:59:02,Asia,Postpaid Voice,Wangiri,1,10.0,32.9,79.03,51.0,11,0.0
+FRAUD1658,2023-11-20 03:21:04,Europe,Postpaid Voice,Subscription Fraud,1,6.2,15.5,361.15,193.12,5,0.0
+FRAUD1659,2023-02-13 09:48:27,Europe,Prepaid Data,Wangiri,1,16.2,0.6,172.27,286.64,13,0.0
+FRAUD1660,2023-03-26 01:14:53,Europe,Postpaid Data,Subscription Fraud,1,4.0,8.0,278.72,143.23,9,0.0
+FRAUD1661,2023-01-25 16:52:38,Americas,Interconnect,CLI Spoofing,1,1.8,4.0,118.17,58.2,8,0.0
+FRAUD1662,2023-01-14 13:05:28,Americas,Postpaid Data,Wangiri,1,8.3,10.2,241.42,87.14,8,0.0
+FRAUD1663,2023-06-17 09:32:53,Americas,Prepaid Voice,CLI Spoofing,1,4.0,43.4,58.26,100.45,1,0.0
+FRAUD1664,2023-11-08 14:15:38,Europe,Prepaid Data,Simbox,0,6.3,40.7,99.01,46.72,12,46.72
+FRAUD1665,2023-09-02 18:28:56,Europe,Postpaid Voice,Wangiri,1,7.7,67.7,132.37,85.85,3,0.0
+FRAUD1666,2023-06-18 09:52:36,Africa,Postpaid Data,Wangiri,1,17.6,4.4,116.49,75.86,5,0.0
+FRAUD1667,2023-08-13 07:57:29,Americas,Prepaid Data,Subscription Fraud,1,35.5,24.4,49.13,150.98,3,0.0
+FRAUD1668,2023-02-25 22:46:27,Asia,Interconnect,International Revenue Share Fraud,1,0.6,3.4,64.03,106.93,10,0.0
+FRAUD1669,2023-12-28 10:44:53,Africa,Postpaid Voice,Wangiri,0,12.2,48.9,105.83,119.42,8,119.42
+FRAUD1670,2023-08-29 06:45:04,Americas,Postpaid Data,International Revenue Share Fraud,1,3.7,18.8,30.25,108.27,7,0.0
+FRAUD1671,2023-01-10 08:23:05,Europe,Postpaid Data,CLI Spoofing,1,2.7,13.9,81.09,42.29,7,0.0
+FRAUD1672,2023-12-02 15:15:05,Europe,Prepaid Data,Wangiri,1,3.1,1.9,72.81,112.05,12,0.0
+FRAUD1673,2023-04-03 23:20:57,Asia,Prepaid Voice,CLI Spoofing,1,5.2,1.9,52.11,24.77,2,0.0
+FRAUD1674,2023-03-06 08:51:15,Africa,Interconnect,CLI Spoofing,0,41.6,4.5,109.95,48.3,8,48.3
+FRAUD1675,2023-08-10 11:52:21,Asia,Postpaid Data,Wangiri,1,4.5,7.7,159.58,180.63,13,0.0
+FRAUD1676,2023-03-23 04:05:10,Americas,Interconnect,Wangiri,1,15.6,9.6,37.53,179.78,8,0.0
+FRAUD1677,2023-08-06 14:14:38,Americas,Prepaid Voice,Simbox,1,0.9,11.9,131.35,300.57,5,0.0
+FRAUD1678,2023-01-23 20:21:11,Africa,Prepaid Voice,Wangiri,1,41.8,25.9,93.07,77.27,11,0.0
+FRAUD1679,2023-07-17 11:24:09,Asia,Prepaid Voice,CLI Spoofing,1,2.8,15.9,159.13,231.52,14,0.0
+FRAUD1680,2023-09-10 14:32:34,Americas,Postpaid Data,CLI Spoofing,1,10.8,18.7,53.56,36.43,3,0.0
+FRAUD1681,2023-09-16 03:21:36,Americas,Prepaid Data,Wangiri,1,26.8,5.0,106.49,93.9,11,0.0
+FRAUD1682,2023-03-21 12:16:12,Europe,Prepaid Data,Subscription Fraud,1,12.1,0.1,63.35,165.33,6,0.0
+FRAUD1683,2023-04-02 18:35:49,Americas,Postpaid Voice,Wangiri,1,29.7,18.6,96.29,74.99,14,0.0
+FRAUD1684,2023-11-18 13:36:11,Europe,Prepaid Voice,Simbox,0,6.2,56.2,58.75,73.66,12,73.66
+FRAUD1685,2023-11-12 21:34:53,Europe,Postpaid Data,CLI Spoofing,1,4.5,5.9,173.24,170.29,6,0.0
+FRAUD1686,2023-02-24 23:34:49,Europe,Interconnect,Wangiri,1,3.2,20.3,64.94,234.91,5,0.0
+FRAUD1687,2023-05-31 09:41:26,Africa,Postpaid Voice,International Revenue Share Fraud,1,10.5,17.8,7.47,142.71,12,0.0
+FRAUD1688,2023-05-02 16:28:59,Asia,Postpaid Data,CLI Spoofing,1,38.7,60.2,46.95,102.38,5,0.0
+FRAUD1689,2023-12-07 22:54:59,Europe,Prepaid Voice,International Revenue Share Fraud,1,19.9,7.7,36.52,100.33,3,0.0
+FRAUD1690,2023-07-24 17:43:04,Asia,Prepaid Voice,Wangiri,1,9.7,26.8,286.29,80.51,2,0.0
+FRAUD1691,2023-10-02 04:57:26,Africa,Postpaid Data,Subscription Fraud,0,34.7,52.5,255.59,181.88,5,181.88
+FRAUD1692,2023-03-21 17:21:29,Europe,Prepaid Voice,Wangiri,1,9.0,21.5,163.19,133.07,11,0.0
+FRAUD1693,2023-07-22 12:51:22,Asia,Postpaid Voice,Simbox,1,2.9,12.7,103.28,160.21,11,0.0
+FRAUD1694,2023-05-05 01:04:36,Europe,Interconnect,CLI Spoofing,1,1.5,14.6,51.33,191.83,2,0.0
+FRAUD1695,2023-09-30 17:19:28,Europe,Interconnect,CLI Spoofing,1,24.4,7.2,84.7,183.54,4,0.0
+FRAUD1696,2023-01-15 11:48:07,Africa,Postpaid Voice,International Revenue Share Fraud,1,4.6,7.9,146.83,158.38,12,0.0
+FRAUD1697,2023-09-25 15:31:59,Europe,Prepaid Voice,Subscription Fraud,1,2.8,4.1,318.75,111.65,3,0.0
+FRAUD1698,2023-01-19 08:21:43,Europe,Postpaid Voice,International Revenue Share Fraud,1,12.6,5.0,97.03,279.22,4,0.0
+FRAUD1699,2023-04-26 01:57:43,Africa,Prepaid Data,Subscription Fraud,1,3.6,25.2,173.25,120.07,7,0.0
+FRAUD1700,2023-10-03 08:03:30,Asia,Postpaid Data,Wangiri,1,11.5,0.7,289.41,184.78,10,0.0
+FRAUD1701,2023-09-23 15:48:59,Americas,Prepaid Data,CLI Spoofing,1,7.7,6.4,3.32,157.24,7,0.0
+FRAUD1702,2023-02-07 05:00:24,Europe,Prepaid Voice,Subscription Fraud,1,26.7,8.6,80.68,207.36,1,0.0
+FRAUD1703,2023-10-28 05:13:28,Europe,Postpaid Data,Subscription Fraud,1,4.4,191.0,119.54,168.27,9,0.0
+FRAUD1704,2023-10-20 01:07:34,Americas,Postpaid Data,Subscription Fraud,1,0.0,16.7,174.29,74.52,14,0.0
+FRAUD1705,2023-02-05 13:52:33,Europe,Prepaid Data,Subscription Fraud,1,9.5,12.9,75.97,107.5,14,0.0
+FRAUD1706,2023-04-19 03:50:28,Asia,Prepaid Voice,Simbox,1,25.3,53.9,57.52,269.29,14,0.0
+FRAUD1707,2023-05-06 04:27:21,Africa,Prepaid Voice,Wangiri,1,7.8,2.1,67.11,213.9,8,0.0
+FRAUD1708,2023-05-08 05:56:27,Africa,Prepaid Data,Subscription Fraud,0,1.8,36.4,112.19,203.81,4,203.81
+FRAUD1709,2023-07-05 10:02:55,Europe,Postpaid Data,International Revenue Share Fraud,0,36.5,0.1,75.4,149.48,7,149.48
+FRAUD1710,2023-11-19 21:35:06,Americas,Postpaid Voice,CLI Spoofing,1,10.2,48.7,118.41,140.28,8,0.0
+FRAUD1711,2023-09-08 05:08:18,Asia,Prepaid Voice,CLI Spoofing,1,14.7,29.8,43.79,41.95,2,0.0
+FRAUD1712,2023-02-18 05:54:14,Americas,Prepaid Data,Wangiri,1,26.1,70.5,245.48,70.56,9,0.0
+FRAUD1713,2023-06-17 03:06:09,Africa,Postpaid Voice,CLI Spoofing,1,12.0,25.8,21.38,194.04,13,0.0
+FRAUD1714,2023-06-14 11:07:23,Africa,Postpaid Voice,Subscription Fraud,1,1.8,13.8,127.32,91.68,13,0.0
+FRAUD1715,2023-01-16 01:26:51,Africa,Prepaid Data,CLI Spoofing,1,26.3,6.7,164.97,144.52,4,0.0
+FRAUD1716,2023-02-02 07:26:27,Asia,Postpaid Data,Subscription Fraud,1,3.6,37.9,112.98,45.51,9,0.0
+FRAUD1717,2023-09-22 05:10:07,Africa,Postpaid Data,Subscription Fraud,0,9.3,16.3,141.18,168.0,3,168.0
+FRAUD1718,2023-10-13 09:05:52,Europe,Prepaid Data,Simbox,1,11.3,36.5,71.29,98.43,2,0.0
+FRAUD1719,2023-02-27 17:17:47,Africa,Prepaid Voice,Simbox,1,23.2,13.2,141.71,168.9,7,0.0
+FRAUD1720,2023-11-26 05:19:51,Asia,Interconnect,Simbox,0,10.8,28.2,64.83,68.59,5,68.59
+FRAUD1721,2023-01-21 10:44:58,Europe,Prepaid Voice,Subscription Fraud,1,14.1,4.5,65.66,67.87,4,0.0
+FRAUD1722,2023-03-28 06:02:20,Africa,Postpaid Voice,Simbox,1,0.4,10.3,90.41,117.1,12,0.0
+FRAUD1723,2023-06-01 11:02:16,Asia,Postpaid Data,Simbox,0,9.1,22.0,118.76,117.48,6,117.48
+FRAUD1724,2023-01-14 12:19:02,Europe,Prepaid Voice,Simbox,1,2.6,18.7,42.28,289.38,3,0.0
+FRAUD1725,2023-09-04 04:02:46,Africa,Prepaid Voice,Simbox,1,6.0,44.5,31.37,98.76,6,0.0
+FRAUD1726,2023-10-08 05:23:25,Europe,Prepaid Voice,CLI Spoofing,1,39.2,54.2,394.74,63.0,3,0.0
+FRAUD1727,2023-12-21 09:28:36,Europe,Postpaid Voice,International Revenue Share Fraud,0,1.3,7.4,190.8,177.74,8,177.74
+FRAUD1728,2023-03-02 19:09:01,Americas,Prepaid Data,Simbox,1,6.4,5.0,47.27,117.63,6,0.0
+FRAUD1729,2023-05-11 11:50:24,Europe,Prepaid Data,Simbox,1,12.0,2.3,27.66,93.98,9,0.0
+FRAUD1730,2023-05-26 01:49:16,Americas,Interconnect,International Revenue Share Fraud,1,9.4,80.4,107.08,109.13,4,0.0
+FRAUD1731,2023-10-15 06:06:17,Americas,Postpaid Data,Simbox,1,4.8,20.7,99.36,66.5,9,0.0
+FRAUD1732,2023-07-30 05:18:47,Africa,Interconnect,Subscription Fraud,1,0.7,9.9,288.11,112.79,2,0.0
+FRAUD1733,2023-01-15 18:38:05,Asia,Prepaid Data,International Revenue Share Fraud,1,22.9,4.8,136.56,196.46,1,0.0
+FRAUD1734,2023-06-02 06:20:58,Africa,Interconnect,International Revenue Share Fraud,1,33.8,21.6,50.63,240.09,13,0.0
+FRAUD1735,2023-05-26 13:10:39,Europe,Postpaid Voice,CLI Spoofing,1,11.1,34.4,108.11,150.49,11,0.0
+FRAUD1736,2023-06-11 09:36:42,Europe,Postpaid Voice,International Revenue Share Fraud,1,19.2,18.1,49.31,163.03,7,0.0
+FRAUD1737,2023-06-05 20:10:08,Europe,Postpaid Voice,Simbox,1,15.2,15.8,71.6,194.69,3,0.0
+FRAUD1738,2023-06-22 00:41:59,Americas,Postpaid Voice,Subscription Fraud,1,3.5,9.1,66.66,113.01,1,0.0
+FRAUD1739,2023-04-12 09:27:30,Africa,Prepaid Data,Wangiri,1,8.6,17.9,138.38,103.38,12,0.0
+FRAUD1740,2023-06-11 04:24:13,Americas,Prepaid Data,Simbox,0,7.5,20.7,108.17,42.69,5,42.69
+FRAUD1741,2023-09-28 02:43:42,Americas,Prepaid Voice,Wangiri,0,15.0,2.3,64.09,194.79,3,194.79
+FRAUD1742,2023-10-09 16:44:26,Asia,Postpaid Data,Subscription Fraud,1,6.2,15.6,79.5,200.03,10,0.0
+FRAUD1743,2023-05-09 23:09:16,Asia,Interconnect,CLI Spoofing,1,3.3,10.1,76.69,114.63,4,0.0
+FRAUD1744,2023-09-15 06:02:57,Asia,Postpaid Voice,Wangiri,1,1.6,55.9,69.3,187.68,8,0.0
+FRAUD1745,2023-04-27 22:36:53,Africa,Prepaid Voice,Wangiri,1,14.2,28.0,85.65,150.05,2,0.0
+FRAUD1746,2023-01-07 17:46:37,Africa,Postpaid Voice,Simbox,1,8.5,26.1,86.51,54.87,12,0.0
+FRAUD1747,2023-08-19 19:51:31,Europe,Interconnect,Simbox,1,10.1,15.0,134.79,75.13,12,0.0
+FRAUD1748,2023-11-09 10:12:34,Africa,Postpaid Data,CLI Spoofing,1,2.2,7.6,25.34,129.41,3,0.0
+FRAUD1749,2023-09-22 22:10:57,Europe,Postpaid Voice,Wangiri,0,6.8,21.2,159.13,137.05,14,137.05
+FRAUD1750,2023-01-05 16:56:07,Africa,Prepaid Voice,Wangiri,1,11.2,2.2,86.1,188.72,3,0.0
+FRAUD1751,2023-05-12 00:28:38,Asia,Prepaid Data,Subscription Fraud,1,3.3,29.5,9.09,171.67,2,0.0
+FRAUD1752,2023-01-28 03:04:36,Europe,Prepaid Voice,Subscription Fraud,1,0.5,9.0,55.08,157.18,3,0.0
+FRAUD1753,2023-06-21 22:35:25,Europe,Postpaid Voice,Subscription Fraud,1,21.7,144.8,13.76,205.33,13,0.0
+FRAUD1754,2023-06-11 21:08:34,Asia,Prepaid Data,International Revenue Share Fraud,1,14.8,9.0,62.9,89.97,10,0.0
+FRAUD1755,2023-05-15 00:34:21,Europe,Prepaid Voice,CLI Spoofing,0,11.8,93.5,199.15,30.72,12,30.72
+FRAUD1756,2023-10-04 18:17:04,Africa,Prepaid Voice,International Revenue Share Fraud,1,12.2,1.5,97.21,252.79,10,0.0
+FRAUD1757,2023-09-05 02:17:05,Africa,Prepaid Voice,CLI Spoofing,1,0.1,1.0,65.11,191.15,13,0.0
+FRAUD1758,2023-07-15 22:27:42,Europe,Interconnect,Wangiri,1,8.3,20.1,54.88,98.29,11,0.0
+FRAUD1759,2023-10-12 16:25:34,Americas,Prepaid Data,Simbox,1,6.1,14.6,14.79,318.52,2,0.0
+FRAUD1760,2023-05-01 19:10:06,Americas,Postpaid Voice,CLI Spoofing,1,2.9,4.8,194.85,139.0,2,0.0
+FRAUD1761,2023-10-11 15:39:15,Americas,Prepaid Voice,CLI Spoofing,1,2.6,4.8,102.33,28.56,1,0.0
+FRAUD1762,2023-06-22 19:29:07,Europe,Postpaid Voice,CLI Spoofing,1,20.0,45.8,31.75,244.1,10,0.0
+FRAUD1763,2023-11-18 10:07:21,Americas,Prepaid Data,Simbox,1,15.0,5.7,26.85,194.44,6,0.0
+FRAUD1764,2023-06-23 14:42:58,Asia,Postpaid Voice,Simbox,1,5.4,33.6,56.72,108.62,7,0.0
+FRAUD1765,2023-11-22 21:42:52,Americas,Interconnect,Simbox,1,16.3,5.0,106.81,98.75,13,0.0
+FRAUD1766,2023-06-29 14:47:11,Europe,Postpaid Data,CLI Spoofing,1,6.1,34.6,44.06,186.98,13,0.0
+FRAUD1767,2023-04-12 04:50:21,Africa,Interconnect,Wangiri,1,14.0,0.5,102.54,21.51,8,0.0
+FRAUD1768,2023-01-07 11:56:53,Europe,Postpaid Voice,Wangiri,1,10.5,11.2,102.4,217.75,1,0.0
+FRAUD1769,2023-10-02 14:37:11,Asia,Interconnect,International Revenue Share Fraud,1,0.7,2.0,102.03,424.23,3,0.0
+FRAUD1770,2023-02-14 09:24:02,Americas,Postpaid Voice,Simbox,1,9.4,40.5,150.57,88.55,7,0.0
+FRAUD1771,2023-08-21 22:49:49,Europe,Interconnect,International Revenue Share Fraud,0,8.3,9.5,26.8,172.58,14,172.58
+FRAUD1772,2023-11-01 06:51:11,Europe,Postpaid Voice,Wangiri,1,0.9,34.8,48.15,228.74,11,0.0
+FRAUD1773,2023-10-05 14:08:20,Americas,Interconnect,Subscription Fraud,1,1.8,36.1,40.46,122.59,8,0.0
+FRAUD1774,2023-12-08 20:33:16,Americas,Interconnect,CLI Spoofing,1,19.6,25.2,64.04,89.2,2,0.0
+FRAUD1775,2023-12-18 05:56:07,Americas,Interconnect,International Revenue Share Fraud,1,4.0,7.7,132.82,175.64,11,0.0
+FRAUD1776,2023-04-15 11:21:51,Europe,Postpaid Voice,Simbox,1,3.6,45.3,98.67,109.56,12,0.0
+FRAUD1777,2023-10-12 23:08:53,Africa,Interconnect,Subscription Fraud,1,6.0,37.8,106.62,300.49,7,0.0
+FRAUD1778,2023-08-06 04:01:40,Asia,Prepaid Voice,Subscription Fraud,1,11.7,37.8,418.69,152.2,14,0.0
+FRAUD1779,2023-02-05 10:36:08,Americas,Prepaid Voice,Simbox,1,5.3,22.3,33.49,139.24,4,0.0
+FRAUD1780,2023-12-16 22:52:37,Americas,Postpaid Data,Simbox,1,35.4,40.4,30.01,281.14,3,0.0
+FRAUD1781,2023-10-09 00:08:01,Asia,Interconnect,Subscription Fraud,1,25.4,36.8,45.77,44.66,7,0.0
+FRAUD1782,2023-09-02 21:41:37,Europe,Interconnect,Wangiri,0,18.8,7.8,72.47,148.37,13,148.37
+FRAUD1783,2023-05-06 00:01:25,Africa,Prepaid Data,International Revenue Share Fraud,1,10.1,8.9,85.16,145.32,2,0.0
+FRAUD1784,2023-05-02 00:27:08,Asia,Postpaid Voice,Subscription Fraud,1,4.4,35.8,63.12,227.95,10,0.0
+FRAUD1785,2023-03-29 06:58:55,Americas,Prepaid Voice,Subscription Fraud,1,4.9,6.0,145.05,182.86,11,0.0
+FRAUD1786,2023-07-01 08:01:56,Americas,Prepaid Data,CLI Spoofing,1,1.3,22.2,49.26,53.86,3,0.0
+FRAUD1787,2023-01-24 17:36:34,Europe,Postpaid Data,Simbox,1,21.7,8.4,41.16,95.37,14,0.0
+FRAUD1788,2023-10-19 00:04:53,Americas,Postpaid Voice,CLI Spoofing,1,3.7,12.8,169.05,174.02,11,0.0
+FRAUD1789,2023-12-16 17:16:21,Americas,Prepaid Data,CLI Spoofing,1,1.2,21.7,16.36,215.65,14,0.0
+FRAUD1790,2023-10-25 11:40:45,Africa,Postpaid Data,CLI Spoofing,0,7.1,19.7,63.23,169.76,13,169.76
+FRAUD1791,2023-09-16 12:30:18,Americas,Interconnect,CLI Spoofing,1,8.7,25.1,44.76,24.95,4,0.0
+FRAUD1792,2023-04-18 02:56:29,Africa,Postpaid Voice,International Revenue Share Fraud,1,2.4,11.8,23.74,97.92,6,0.0
+FRAUD1793,2023-04-14 03:47:01,Americas,Prepaid Voice,Wangiri,0,28.2,25.9,42.73,107.71,3,107.71
+FRAUD1794,2023-09-27 14:14:40,Americas,Interconnect,Subscription Fraud,1,4.1,11.6,54.23,23.87,6,0.0
+FRAUD1795,2023-05-09 01:38:38,Americas,Postpaid Data,CLI Spoofing,0,8.5,6.8,53.47,134.1,6,134.1
+FRAUD1796,2023-01-20 08:34:58,Asia,Postpaid Data,Wangiri,0,18.4,19.8,35.21,291.39,4,291.39
+FRAUD1797,2023-06-21 05:52:37,Americas,Postpaid Voice,Wangiri,1,19.3,16.0,160.86,335.17,14,0.0
+FRAUD1798,2023-11-25 11:56:49,Asia,Prepaid Voice,CLI Spoofing,1,6.2,33.5,126.93,243.2,9,0.0
+FRAUD1799,2023-01-06 01:20:26,Europe,Postpaid Data,Simbox,1,1.5,4.6,181.07,119.7,5,0.0
+FRAUD1800,2023-10-16 11:31:34,Europe,Prepaid Voice,Simbox,0,15.2,90.7,168.15,86.69,12,86.69
+FRAUD1801,2023-03-26 23:21:56,Americas,Prepaid Data,Wangiri,1,0.7,92.2,6.42,188.61,9,0.0
+FRAUD1802,2023-12-28 17:22:17,Africa,Interconnect,Subscription Fraud,1,2.2,43.8,213.9,358.15,8,0.0
+FRAUD1803,2023-05-05 09:38:02,Americas,Postpaid Data,Simbox,0,17.1,92.7,124.51,156.92,13,156.92
+FRAUD1804,2023-06-19 12:55:37,Africa,Postpaid Voice,Simbox,1,0.4,37.4,114.85,161.3,6,0.0
+FRAUD1805,2023-02-03 18:39:03,Africa,Interconnect,Subscription Fraud,1,11.2,2.6,81.03,74.49,12,0.0
+FRAUD1806,2023-10-13 13:57:27,Americas,Prepaid Voice,Wangiri,1,14.1,3.0,35.36,68.43,12,0.0
+FRAUD1807,2023-08-14 15:55:05,Americas,Postpaid Data,Wangiri,1,3.0,22.5,2.16,37.7,5,0.0
+FRAUD1808,2023-10-14 01:12:49,Asia,Postpaid Data,Simbox,1,36.3,16.4,66.95,91.04,8,0.0
+FRAUD1809,2023-11-15 19:47:01,Africa,Postpaid Voice,Wangiri,1,22.5,10.2,85.05,71.24,3,0.0
+FRAUD1810,2023-03-27 08:47:12,Europe,Postpaid Voice,Simbox,1,4.9,3.7,380.8,110.08,6,0.0
+FRAUD1811,2023-06-26 00:24:11,Americas,Postpaid Voice,Simbox,1,27.4,32.9,67.66,121.52,13,0.0
+FRAUD1812,2023-01-22 22:02:01,Africa,Prepaid Data,Simbox,1,5.5,2.6,163.47,163.75,8,0.0
+FRAUD1813,2023-07-08 13:16:30,Africa,Postpaid Voice,CLI Spoofing,1,16.1,8.4,184.11,93.18,4,0.0
+FRAUD1814,2023-09-11 05:50:21,Americas,Interconnect,CLI Spoofing,1,27.7,80.1,27.25,296.93,11,0.0
+FRAUD1815,2023-07-22 19:48:28,Europe,Postpaid Data,Subscription Fraud,0,21.2,86.9,136.4,117.72,11,117.72
+FRAUD1816,2023-12-20 00:05:28,Europe,Postpaid Data,International Revenue Share Fraud,0,0.2,4.5,267.43,167.19,12,167.19
+FRAUD1817,2023-02-23 03:33:12,Africa,Postpaid Voice,Simbox,1,26.6,13.9,100.44,128.3,6,0.0
+FRAUD1818,2023-12-12 00:39:20,Americas,Postpaid Data,Subscription Fraud,1,25.9,22.7,120.13,123.59,9,0.0
+FRAUD1819,2023-06-11 03:48:52,Americas,Interconnect,Subscription Fraud,1,5.1,35.4,15.79,180.74,8,0.0
+FRAUD1820,2023-07-20 23:53:48,Asia,Prepaid Data,CLI Spoofing,1,0.4,13.5,37.43,273.41,4,0.0
+FRAUD1821,2023-05-11 04:18:28,Africa,Postpaid Data,International Revenue Share Fraud,1,1.5,18.9,125.0,144.29,13,0.0
+FRAUD1822,2023-01-13 16:03:25,Africa,Postpaid Voice,International Revenue Share Fraud,1,14.1,24.8,36.2,89.46,11,0.0
+FRAUD1823,2023-07-01 01:54:17,Asia,Prepaid Voice,CLI Spoofing,1,1.7,33.7,375.01,217.48,2,0.0
+FRAUD1824,2023-11-24 23:59:57,Asia,Postpaid Voice,International Revenue Share Fraud,1,25.0,7.6,15.65,229.39,14,0.0
+FRAUD1825,2023-08-14 11:46:13,Europe,Postpaid Data,Subscription Fraud,1,8.8,5.8,151.58,137.91,9,0.0
+FRAUD1826,2023-04-01 20:15:07,Africa,Prepaid Voice,CLI Spoofing,1,18.3,38.5,100.9,62.25,4,0.0
+FRAUD1827,2023-04-14 11:21:54,Asia,Interconnect,Subscription Fraud,1,39.9,73.2,99.7,54.0,2,0.0
+FRAUD1828,2023-12-24 02:52:05,Africa,Prepaid Data,Subscription Fraud,1,24.5,44.5,66.59,282.34,11,0.0
+FRAUD1829,2023-09-26 00:35:11,Americas,Postpaid Voice,CLI Spoofing,1,15.7,1.1,33.31,84.4,12,0.0
+FRAUD1830,2023-09-07 00:18:47,Americas,Postpaid Data,Subscription Fraud,0,27.4,12.8,50.29,155.17,4,155.17
+FRAUD1831,2023-06-05 10:08:10,Asia,Interconnect,International Revenue Share Fraud,1,5.4,6.5,238.34,59.68,12,0.0
+FRAUD1832,2023-03-27 07:38:27,Americas,Postpaid Data,Subscription Fraud,0,17.9,28.9,126.71,69.51,9,69.51
+FRAUD1833,2023-12-18 21:13:03,Africa,Prepaid Data,Simbox,1,28.8,0.4,52.06,130.3,3,0.0
+FRAUD1834,2023-05-07 07:53:02,Americas,Prepaid Data,International Revenue Share Fraud,1,17.9,6.2,180.52,103.38,1,0.0
+FRAUD1835,2023-06-26 02:43:51,Europe,Postpaid Data,CLI Spoofing,1,26.7,17.6,78.9,174.64,4,0.0
+FRAUD1836,2023-05-06 13:01:22,Asia,Postpaid Data,Wangiri,1,5.6,51.5,77.08,144.56,12,0.0
+FRAUD1837,2023-08-05 23:34:16,Americas,Postpaid Voice,International Revenue Share Fraud,1,13.1,0.5,74.42,268.96,7,0.0
+FRAUD1838,2023-10-23 00:28:30,Asia,Prepaid Data,Wangiri,0,11.4,38.0,70.88,179.62,13,179.62
+FRAUD1839,2023-10-10 05:55:59,Europe,Prepaid Data,CLI Spoofing,0,1.2,7.2,71.56,119.12,2,119.12
+FRAUD1840,2023-01-17 05:19:02,Europe,Postpaid Voice,International Revenue Share Fraud,1,11.0,19.8,134.13,57.23,14,0.0
+FRAUD1841,2023-12-16 15:49:48,Asia,Postpaid Voice,CLI Spoofing,1,39.6,8.4,117.68,142.69,9,0.0
+FRAUD1842,2023-09-08 04:20:44,Europe,Postpaid Data,International Revenue Share Fraud,0,10.9,2.1,112.32,150.06,7,150.06
+FRAUD1843,2023-01-25 07:34:55,Europe,Interconnect,Wangiri,1,16.4,9.8,37.78,67.9,2,0.0
+FRAUD1844,2023-01-10 14:26:53,Americas,Postpaid Data,CLI Spoofing,0,4.8,10.6,76.21,120.94,5,120.94
+FRAUD1845,2023-12-24 23:51:29,Africa,Interconnect,Wangiri,1,2.4,46.5,173.55,125.69,4,0.0
+FRAUD1846,2023-09-15 21:09:12,Europe,Interconnect,International Revenue Share Fraud,1,40.3,54.4,23.46,177.49,9,0.0
+FRAUD1847,2023-07-30 10:25:22,Europe,Prepaid Data,International Revenue Share Fraud,1,8.3,38.4,171.67,79.3,6,0.0
+FRAUD1848,2023-02-04 09:48:11,Americas,Postpaid Voice,International Revenue Share Fraud,1,6.5,7.3,117.84,126.26,3,0.0
+FRAUD1849,2023-02-26 15:00:29,Africa,Interconnect,Wangiri,1,2.4,24.9,174.44,144.42,13,0.0
+FRAUD1850,2023-07-13 04:03:46,Asia,Prepaid Voice,Wangiri,1,11.9,6.6,178.71,98.66,6,0.0
+FRAUD1851,2023-02-05 23:31:44,Americas,Postpaid Voice,International Revenue Share Fraud,0,3.8,53.6,131.14,218.83,8,218.83
+FRAUD1852,2023-07-27 23:11:28,Asia,Postpaid Voice,CLI Spoofing,1,14.1,67.7,33.19,70.5,3,0.0
+FRAUD1853,2023-08-09 07:29:56,Europe,Postpaid Voice,Subscription Fraud,1,15.3,33.5,38.9,100.05,7,0.0
+FRAUD1854,2023-12-28 08:42:59,Europe,Postpaid Voice,CLI Spoofing,1,32.4,2.5,161.63,176.01,4,0.0
+FRAUD1855,2023-01-09 15:16:08,Americas,Postpaid Voice,Subscription Fraud,1,16.1,31.2,122.33,543.93,8,0.0
+FRAUD1856,2023-05-24 21:53:06,Europe,Prepaid Voice,CLI Spoofing,0,0.8,59.4,147.12,216.94,9,216.94
+FRAUD1857,2023-07-21 17:58:35,Americas,Postpaid Data,International Revenue Share Fraud,1,2.3,24.0,155.59,427.28,11,0.0
+FRAUD1858,2023-09-21 05:36:07,Europe,Postpaid Data,Subscription Fraud,1,64.3,35.3,69.44,178.49,1,0.0
+FRAUD1859,2023-10-19 13:37:50,Asia,Postpaid Data,Wangiri,1,25.2,22.8,116.89,166.13,6,0.0
+FRAUD1860,2023-03-21 21:30:51,Europe,Interconnect,International Revenue Share Fraud,1,1.1,26.1,77.49,135.46,13,0.0
+FRAUD1861,2023-06-14 23:32:59,Africa,Interconnect,International Revenue Share Fraud,1,17.4,14.6,135.79,265.34,6,0.0
+FRAUD1862,2023-08-24 03:37:48,Asia,Interconnect,International Revenue Share Fraud,1,25.4,38.8,38.16,258.85,11,0.0
+FRAUD1863,2023-01-31 15:37:21,Europe,Prepaid Voice,CLI Spoofing,1,18.7,15.7,164.27,110.73,12,0.0
+FRAUD1864,2023-04-27 05:05:36,Americas,Prepaid Data,Subscription Fraud,1,0.2,4.5,144.6,428.57,10,0.0
+FRAUD1865,2023-08-03 22:22:03,Europe,Prepaid Data,Wangiri,1,3.7,33.0,86.94,154.82,11,0.0
+FRAUD1866,2023-03-29 19:00:47,Europe,Postpaid Voice,Wangiri,1,7.6,25.4,202.31,194.83,8,0.0
+FRAUD1867,2023-03-03 08:27:47,Europe,Interconnect,International Revenue Share Fraud,1,14.9,11.2,28.1,211.61,3,0.0
+FRAUD1868,2023-08-19 05:49:34,Europe,Prepaid Voice,International Revenue Share Fraud,1,17.9,20.2,141.84,156.0,10,0.0
+FRAUD1869,2023-09-18 10:13:08,Europe,Postpaid Voice,International Revenue Share Fraud,1,2.5,4.9,52.83,197.81,12,0.0
+FRAUD1870,2023-04-26 06:01:47,Americas,Prepaid Voice,Wangiri,0,14.7,10.5,64.65,321.3,10,321.3
+FRAUD1871,2023-04-25 00:59:25,Asia,Postpaid Data,CLI Spoofing,1,5.5,3.7,33.24,160.03,10,0.0
+FRAUD1872,2023-10-07 06:16:01,Americas,Prepaid Data,Simbox,1,2.9,99.7,79.69,86.38,14,0.0
+FRAUD1873,2023-03-11 08:44:27,Africa,Postpaid Voice,Wangiri,1,18.1,26.2,255.85,188.27,9,0.0
+FRAUD1874,2023-09-05 18:02:56,Europe,Interconnect,Subscription Fraud,1,29.6,0.3,113.46,85.17,12,0.0
+FRAUD1875,2023-03-27 06:39:48,Asia,Interconnect,Simbox,0,1.1,48.8,118.7,70.02,3,70.02
+FRAUD1876,2023-04-24 15:34:43,Asia,Postpaid Voice,Simbox,1,5.1,9.9,126.84,205.02,2,0.0
+FRAUD1877,2023-08-24 08:02:03,Europe,Prepaid Data,International Revenue Share Fraud,1,6.8,6.6,178.33,159.05,1,0.0
+FRAUD1878,2023-06-13 06:49:35,Asia,Postpaid Voice,Subscription Fraud,1,24.3,6.2,35.96,353.38,10,0.0
+FRAUD1879,2023-06-08 22:23:32,Europe,Postpaid Voice,CLI Spoofing,0,27.3,1.0,41.95,164.85,3,164.85
+FRAUD1880,2023-02-09 08:19:47,Asia,Postpaid Data,Wangiri,0,11.6,15.2,209.15,129.22,5,129.22
+FRAUD1881,2023-09-23 00:22:25,Americas,Postpaid Data,International Revenue Share Fraud,1,0.4,0.9,103.94,193.38,4,0.0
+FRAUD1882,2023-03-20 20:34:45,Europe,Prepaid Voice,International Revenue Share Fraud,0,20.7,19.1,67.14,93.09,1,93.09
+FRAUD1883,2023-10-21 11:56:18,Africa,Interconnect,Subscription Fraud,1,1.0,29.0,30.48,454.51,5,0.0
+FRAUD1884,2023-07-15 04:27:21,Asia,Prepaid Data,International Revenue Share Fraud,1,7.2,7.4,293.24,293.41,12,0.0
+FRAUD1885,2023-01-15 09:13:21,Africa,Postpaid Voice,CLI Spoofing,0,2.8,18.6,26.71,112.23,7,112.23
+FRAUD1886,2023-10-17 13:05:17,Europe,Prepaid Voice,Wangiri,0,19.9,20.7,78.86,143.38,8,143.38
+FRAUD1887,2023-03-11 15:12:46,Europe,Prepaid Data,Wangiri,1,10.4,13.1,42.08,75.07,14,0.0
+FRAUD1888,2023-11-13 00:06:20,Europe,Postpaid Voice,Subscription Fraud,0,9.8,40.6,65.14,251.68,14,251.68
+FRAUD1889,2023-12-15 13:16:20,Europe,Postpaid Data,Simbox,0,16.6,47.7,174.41,357.89,7,357.89
+FRAUD1890,2023-06-01 03:58:33,Americas,Prepaid Voice,Subscription Fraud,1,14.9,1.4,163.22,64.35,7,0.0
+FRAUD1891,2023-10-01 00:05:22,Asia,Prepaid Voice,CLI Spoofing,1,9.7,14.4,107.89,71.77,7,0.0
+FRAUD1892,2023-06-05 19:47:43,Africa,Postpaid Data,Simbox,1,6.2,122.5,101.0,324.78,3,0.0
+FRAUD1893,2023-05-22 23:39:10,Europe,Prepaid Data,Simbox,1,8.3,2.7,26.03,165.68,9,0.0
+FRAUD1894,2023-01-19 04:00:02,Africa,Prepaid Voice,Subscription Fraud,1,36.5,6.0,77.66,106.52,3,0.0
+FRAUD1895,2023-02-26 20:52:54,Europe,Interconnect,International Revenue Share Fraud,1,11.4,0.6,124.47,443.6,4,0.0
+FRAUD1896,2023-04-26 14:54:51,Americas,Prepaid Voice,Wangiri,1,7.8,28.7,57.73,160.27,2,0.0
+FRAUD1897,2023-05-18 05:59:24,Asia,Postpaid Voice,International Revenue Share Fraud,1,17.5,0.6,201.89,158.34,9,0.0
+FRAUD1898,2023-01-04 11:31:35,Africa,Interconnect,Simbox,1,8.5,0.1,66.07,157.34,7,0.0
+FRAUD1899,2023-09-02 04:19:40,Asia,Postpaid Data,International Revenue Share Fraud,1,22.0,38.1,326.45,173.15,12,0.0
+FRAUD1900,2023-02-14 07:14:54,Africa,Postpaid Data,CLI Spoofing,1,1.1,44.3,178.23,61.44,4,0.0
+FRAUD1901,2023-10-18 06:32:09,Americas,Prepaid Data,International Revenue Share Fraud,1,2.7,5.8,81.81,99.49,2,0.0
+FRAUD1902,2023-05-08 18:20:43,Africa,Postpaid Voice,Simbox,1,16.3,14.8,36.79,154.81,2,0.0
+FRAUD1903,2023-04-30 21:31:42,Africa,Prepaid Voice,International Revenue Share Fraud,1,13.0,7.9,24.31,63.8,12,0.0
+FRAUD1904,2023-01-24 11:45:14,Europe,Prepaid Data,Simbox,0,11.8,25.8,50.8,214.51,1,214.51
+FRAUD1905,2023-09-26 08:01:25,Americas,Postpaid Voice,CLI Spoofing,1,13.3,44.3,61.76,111.49,10,0.0
+FRAUD1906,2023-12-27 14:50:20,Asia,Prepaid Voice,International Revenue Share Fraud,1,18.3,59.4,55.21,150.61,13,0.0
+FRAUD1907,2023-01-14 01:39:55,Asia,Prepaid Voice,Wangiri,1,60.6,4.7,106.78,231.46,11,0.0
+FRAUD1908,2023-04-01 01:35:20,Africa,Prepaid Data,Wangiri,1,4.2,100.0,83.11,419.44,8,0.0
+FRAUD1909,2023-11-03 01:55:01,Europe,Prepaid Voice,International Revenue Share Fraud,1,34.7,31.5,10.76,183.95,2,0.0
+FRAUD1910,2023-12-24 06:08:37,Europe,Postpaid Voice,CLI Spoofing,1,16.0,12.0,95.63,146.51,2,0.0
+FRAUD1911,2023-09-24 16:59:40,Americas,Prepaid Data,Wangiri,1,7.0,45.7,97.61,87.8,11,0.0
+FRAUD1912,2023-02-20 22:26:07,Europe,Prepaid Voice,CLI Spoofing,0,5.1,17.9,23.97,41.93,8,41.93
+FRAUD1913,2023-03-20 14:00:36,Americas,Postpaid Voice,International Revenue Share Fraud,1,7.8,33.7,148.31,162.83,10,0.0
+FRAUD1914,2023-06-19 16:31:56,Europe,Interconnect,CLI Spoofing,1,29.5,26.7,197.68,204.81,2,0.0
+FRAUD1915,2023-05-24 09:54:10,Americas,Prepaid Voice,Wangiri,1,11.7,36.4,110.57,149.47,4,0.0
+FRAUD1916,2023-03-30 07:04:37,Americas,Prepaid Data,Simbox,1,14.5,36.5,74.41,81.06,2,0.0
+FRAUD1917,2023-09-06 21:28:22,Africa,Prepaid Data,CLI Spoofing,1,3.3,171.3,399.3,219.83,10,0.0
+FRAUD1918,2023-11-06 18:27:05,Asia,Postpaid Data,Simbox,0,3.6,2.7,60.74,183.54,6,183.54
+FRAUD1919,2023-02-19 23:23:58,Americas,Postpaid Data,Subscription Fraud,0,2.2,4.3,20.44,70.96,14,70.96
+FRAUD1920,2023-09-29 06:55:25,Africa,Prepaid Data,Simbox,0,6.7,0.0,29.02,265.89,3,265.89
+FRAUD1921,2023-09-03 19:09:24,Asia,Postpaid Data,International Revenue Share Fraud,1,0.3,20.3,133.15,130.66,12,0.0
+FRAUD1922,2023-05-07 00:47:09,Asia,Postpaid Voice,CLI Spoofing,1,20.6,59.3,230.34,119.99,6,0.0
+FRAUD1923,2023-05-04 18:46:01,Asia,Interconnect,CLI Spoofing,1,12.2,15.9,52.35,75.43,5,0.0
+FRAUD1924,2023-03-29 05:23:15,Europe,Prepaid Voice,Subscription Fraud,1,12.5,14.5,144.57,120.08,3,0.0
+FRAUD1925,2023-12-16 06:34:51,Americas,Postpaid Data,CLI Spoofing,1,32.8,0.9,23.22,53.11,7,0.0
+FRAUD1926,2023-12-12 13:02:52,Europe,Postpaid Voice,International Revenue Share Fraud,0,6.7,42.2,52.28,315.57,10,315.57
+FRAUD1927,2023-10-14 07:42:52,Europe,Prepaid Voice,Wangiri,1,5.9,15.5,23.64,75.94,3,0.0
+FRAUD1928,2023-09-21 13:18:03,Africa,Prepaid Data,Simbox,1,1.1,15.3,173.24,105.83,5,0.0
+FRAUD1929,2023-12-21 14:50:27,Americas,Interconnect,CLI Spoofing,1,24.5,1.7,148.1,121.42,4,0.0
+FRAUD1930,2023-07-26 19:48:27,Asia,Postpaid Voice,Simbox,1,6.3,1.3,27.43,55.19,13,0.0
+FRAUD1931,2023-09-22 12:23:43,Africa,Postpaid Data,International Revenue Share Fraud,1,26.3,24.8,24.72,139.31,7,0.0
+FRAUD1932,2023-08-23 10:52:25,Americas,Prepaid Voice,Simbox,1,4.0,5.0,90.22,154.89,5,0.0
+FRAUD1933,2023-05-14 00:54:11,Europe,Postpaid Data,Wangiri,1,19.7,12.4,80.89,312.47,2,0.0
+FRAUD1934,2023-05-29 09:06:14,Asia,Postpaid Voice,Subscription Fraud,0,15.3,64.5,264.54,413.7,11,413.7
+FRAUD1935,2023-07-12 00:09:10,Africa,Prepaid Voice,International Revenue Share Fraud,1,11.9,30.4,136.45,75.85,13,0.0
+FRAUD1936,2023-04-17 00:38:11,Africa,Postpaid Data,Wangiri,1,8.9,18.1,89.15,275.5,3,0.0
+FRAUD1937,2023-09-30 07:35:27,Africa,Postpaid Data,Wangiri,1,0.9,41.2,154.69,55.69,7,0.0
+FRAUD1938,2023-04-29 22:08:33,Americas,Prepaid Data,Simbox,1,10.3,6.4,138.82,197.18,13,0.0
+FRAUD1939,2023-10-21 02:04:34,Americas,Prepaid Voice,Simbox,1,1.3,20.8,28.73,62.25,7,0.0
+FRAUD1940,2023-06-22 17:50:54,Asia,Interconnect,International Revenue Share Fraud,1,0.8,56.7,65.32,211.28,4,0.0
+FRAUD1941,2023-06-04 15:37:45,Asia,Interconnect,Wangiri,1,20.0,2.0,20.05,158.99,13,0.0
+FRAUD1942,2023-07-27 01:40:44,Europe,Postpaid Voice,Subscription Fraud,1,15.4,35.7,111.95,77.25,12,0.0
+FRAUD1943,2023-05-27 02:01:05,Americas,Prepaid Voice,Subscription Fraud,1,14.9,39.9,44.62,537.81,12,0.0
+FRAUD1944,2023-10-20 17:42:37,Americas,Prepaid Data,Simbox,1,1.2,44.3,89.76,64.89,10,0.0
+FRAUD1945,2023-01-01 19:44:21,Americas,Prepaid Voice,Wangiri,1,6.4,41.1,38.49,107.11,8,0.0
+FRAUD1946,2023-05-01 17:24:24,Americas,Prepaid Data,Wangiri,0,9.6,26.4,62.23,139.82,9,139.82
+FRAUD1947,2023-09-22 08:12:56,Europe,Postpaid Data,Wangiri,1,8.7,55.5,22.53,121.95,4,0.0
+FRAUD1948,2023-03-20 13:53:04,Americas,Interconnect,Simbox,1,1.0,3.4,182.23,59.56,13,0.0
+FRAUD1949,2023-08-29 04:14:58,Africa,Postpaid Voice,Wangiri,1,10.9,13.4,99.85,63.26,12,0.0
+FRAUD1950,2023-06-14 13:05:37,Asia,Prepaid Data,Simbox,1,0.7,20.9,167.58,228.71,9,0.0
+FRAUD1951,2023-02-02 12:04:01,Europe,Interconnect,CLI Spoofing,1,31.8,2.3,170.33,54.98,1,0.0
+FRAUD1952,2023-07-05 10:21:07,Africa,Prepaid Voice,Wangiri,0,1.0,11.5,153.65,249.62,1,249.62
+FRAUD1953,2023-09-26 23:31:13,Asia,Interconnect,International Revenue Share Fraud,1,7.4,15.9,40.44,62.7,14,0.0
+FRAUD1954,2023-05-15 21:20:00,Americas,Postpaid Voice,International Revenue Share Fraud,1,9.5,6.2,40.62,34.12,9,0.0
+FRAUD1955,2023-03-31 16:30:21,Africa,Prepaid Data,Wangiri,1,33.5,3.7,140.07,332.4,6,0.0
+FRAUD1956,2023-03-03 02:00:22,Asia,Prepaid Data,Simbox,0,1.8,24.2,143.35,19.59,3,19.59
+FRAUD1957,2023-10-08 03:39:57,Americas,Interconnect,Simbox,0,26.0,16.0,74.95,304.07,14,304.07
+FRAUD1958,2023-10-07 03:52:16,Africa,Postpaid Voice,Subscription Fraud,1,1.4,1.7,19.29,136.57,4,0.0
+FRAUD1959,2023-02-02 00:32:53,Europe,Postpaid Voice,Simbox,1,0.3,13.6,34.65,142.54,2,0.0
+FRAUD1960,2023-10-25 22:04:54,Europe,Postpaid Data,International Revenue Share Fraud,1,0.5,35.4,12.44,129.8,13,0.0
+FRAUD1961,2023-11-13 07:50:34,Africa,Prepaid Data,Wangiri,0,2.8,26.1,8.58,105.79,1,105.79
+FRAUD1962,2023-10-08 19:31:28,Europe,Interconnect,Wangiri,1,27.9,40.9,81.98,64.96,1,0.0
+FRAUD1963,2023-09-26 18:08:21,Europe,Prepaid Data,CLI Spoofing,1,11.1,0.0,44.01,141.54,6,0.0
+FRAUD1964,2023-01-02 00:14:36,Africa,Postpaid Voice,Subscription Fraud,1,0.7,30.5,23.29,53.26,5,0.0
+FRAUD1965,2023-06-12 12:52:12,Europe,Postpaid Voice,Subscription Fraud,1,2.2,70.2,148.97,156.22,13,0.0
+FRAUD1966,2023-07-04 10:18:48,Asia,Interconnect,Simbox,0,14.4,2.3,1.3,135.9,3,135.9
+FRAUD1967,2023-07-28 14:27:20,Asia,Postpaid Voice,CLI Spoofing,1,54.8,10.1,25.5,105.8,5,0.0
+FRAUD1968,2023-08-03 14:27:06,Asia,Postpaid Voice,Wangiri,1,15.1,24.6,14.21,287.58,3,0.0
+FRAUD1969,2023-04-28 12:05:45,Africa,Postpaid Data,Subscription Fraud,1,6.6,71.7,207.66,102.98,10,0.0
+FRAUD1970,2023-06-08 16:53:00,Americas,Interconnect,Simbox,1,18.5,41.5,205.36,84.7,14,0.0
+FRAUD1971,2023-02-03 14:31:39,Americas,Prepaid Data,International Revenue Share Fraud,1,4.3,46.7,6.57,101.59,4,0.0
+FRAUD1972,2023-12-09 01:17:50,Africa,Prepaid Voice,Wangiri,0,0.1,12.1,162.39,180.14,2,180.14
+FRAUD1973,2023-07-18 07:42:55,Africa,Prepaid Voice,International Revenue Share Fraud,0,10.6,1.9,68.11,87.95,1,87.95
+FRAUD1974,2023-07-26 20:55:32,Africa,Postpaid Voice,Subscription Fraud,1,3.9,85.3,89.91,84.71,1,0.0
+FRAUD1975,2023-12-17 14:01:18,Africa,Interconnect,Wangiri,1,1.3,3.8,102.13,138.95,9,0.0
+FRAUD1976,2023-10-07 07:06:26,Americas,Prepaid Data,Simbox,1,21.3,80.1,38.73,270.44,9,0.0
+FRAUD1977,2023-05-19 15:02:26,Americas,Postpaid Data,Wangiri,1,14.6,22.9,194.64,206.49,9,0.0
+FRAUD1978,2023-04-01 13:55:38,Europe,Postpaid Voice,Simbox,1,5.8,52.3,232.0,253.93,4,0.0
+FRAUD1979,2023-02-03 08:32:23,Americas,Postpaid Voice,Subscription Fraud,1,41.4,26.9,207.77,246.0,6,0.0
+FRAUD1980,2023-09-15 13:08:29,Asia,Postpaid Voice,Wangiri,1,3.8,6.1,56.65,340.25,7,0.0
+FRAUD1981,2023-02-12 18:21:51,Africa,Postpaid Voice,International Revenue Share Fraud,1,33.2,90.8,151.49,67.97,9,0.0
+FRAUD1982,2023-09-01 06:10:13,Asia,Interconnect,Wangiri,1,1.4,35.9,13.23,159.51,12,0.0
+FRAUD1983,2023-11-20 08:56:36,Asia,Interconnect,Wangiri,1,0.0,2.8,56.77,192.61,14,0.0
+FRAUD1984,2023-04-07 23:25:04,Africa,Interconnect,International Revenue Share Fraud,1,6.3,1.5,150.62,50.47,13,0.0
+FRAUD1985,2023-04-13 07:05:23,Americas,Postpaid Voice,Wangiri,1,15.0,3.5,138.5,167.52,14,0.0
+FRAUD1986,2023-11-01 09:23:05,Africa,Prepaid Voice,Subscription Fraud,1,3.7,14.7,101.09,58.82,3,0.0
+FRAUD1987,2023-06-28 01:30:09,Europe,Postpaid Data,Simbox,0,4.1,26.7,71.34,54.94,2,54.94
+FRAUD1988,2023-02-05 21:29:35,Americas,Interconnect,Subscription Fraud,1,23.8,9.9,69.77,208.91,9,0.0
+FRAUD1989,2023-02-11 14:51:37,Americas,Prepaid Data,Subscription Fraud,1,5.3,23.9,284.42,50.17,2,0.0
+FRAUD1990,2023-05-22 06:11:10,Asia,Prepaid Data,International Revenue Share Fraud,1,24.0,56.1,215.14,75.06,9,0.0
+FRAUD1991,2023-05-29 00:06:48,Asia,Prepaid Voice,International Revenue Share Fraud,1,1.6,24.9,147.38,47.32,1,0.0
+FRAUD1992,2023-11-24 01:07:47,Africa,Prepaid Data,Wangiri,1,13.8,2.1,134.48,501.83,10,0.0
+FRAUD1993,2023-04-10 00:22:38,Americas,Postpaid Voice,Simbox,1,21.8,114.5,79.66,92.68,6,0.0
+FRAUD1994,2023-08-23 18:03:41,Europe,Postpaid Voice,CLI Spoofing,0,16.7,6.4,70.07,80.12,7,80.12
+FRAUD1995,2023-01-24 06:15:24,Africa,Interconnect,International Revenue Share Fraud,1,12.0,61.7,49.26,55.95,5,0.0
+FRAUD1996,2023-10-23 11:39:36,Europe,Prepaid Voice,International Revenue Share Fraud,1,8.9,56.5,74.23,96.54,5,0.0
+FRAUD1997,2023-10-01 20:02:13,Americas,Prepaid Voice,Wangiri,1,5.4,53.3,181.77,96.14,12,0.0
+FRAUD1998,2023-12-27 01:36:03,Europe,Interconnect,CLI Spoofing,1,1.5,4.9,283.26,262.05,5,0.0
+FRAUD1999,2023-04-03 10:58:12,Europe,Postpaid Data,CLI Spoofing,1,14.6,0.5,124.27,239.87,6,0.0
+FRAUD2000,2023-01-16 20:38:23,Europe,Prepaid Voice,Simbox,1,3.6,17.3,135.07,229.1,11,0.0
+FRAUD2001,2023-03-25 17:47:43,Europe,Prepaid Voice,International Revenue Share Fraud,1,12.8,24.8,24.36,68.71,9,0.0
+FRAUD2002,2023-04-02 06:42:48,Asia,Postpaid Voice,Subscription Fraud,1,11.2,12.0,33.36,93.31,3,0.0
+FRAUD2003,2023-03-06 03:55:01,Europe,Prepaid Data,Wangiri,1,21.9,8.9,36.84,72.36,2,0.0
+FRAUD2004,2023-05-25 14:07:24,Africa,Postpaid Voice,Wangiri,1,12.1,7.4,30.96,131.46,12,0.0
+FRAUD2005,2023-06-28 15:13:49,Europe,Interconnect,Simbox,1,7.6,36.3,51.44,91.7,6,0.0
+FRAUD2006,2023-01-11 00:56:51,Europe,Prepaid Voice,Subscription Fraud,1,17.3,19.1,74.36,117.11,6,0.0
+FRAUD2007,2023-10-05 16:35:26,Africa,Interconnect,Simbox,1,1.1,2.6,202.86,91.97,7,0.0
+FRAUD2008,2023-04-28 02:16:35,Americas,Prepaid Data,Simbox,0,3.6,46.3,258.34,39.42,6,39.42
+FRAUD2009,2023-05-19 10:39:48,Europe,Postpaid Voice,Subscription Fraud,1,23.5,3.4,16.68,195.77,3,0.0
+FRAUD2010,2023-07-12 14:18:55,Americas,Interconnect,CLI Spoofing,0,7.4,45.8,57.04,123.25,12,123.25
+FRAUD2011,2023-11-19 12:09:49,Americas,Interconnect,Wangiri,1,12.3,9.4,195.72,72.18,11,0.0
+FRAUD2012,2023-05-10 18:06:25,Africa,Prepaid Data,CLI Spoofing,1,5.9,10.3,90.1,126.64,11,0.0
+FRAUD2013,2023-02-14 04:19:12,Americas,Prepaid Voice,Subscription Fraud,1,7.7,3.3,277.5,48.61,4,0.0
+FRAUD2014,2023-07-07 04:36:42,Americas,Postpaid Data,Wangiri,1,9.2,8.1,240.97,158.4,5,0.0
+FRAUD2015,2023-10-19 15:11:36,Europe,Postpaid Voice,Wangiri,1,28.2,4.6,218.64,133.75,5,0.0
+FRAUD2016,2023-11-03 08:25:41,Asia,Postpaid Data,Subscription Fraud,1,19.6,85.6,78.01,100.72,2,0.0
+FRAUD2017,2023-02-02 06:53:21,Americas,Postpaid Voice,Subscription Fraud,0,4.4,101.4,157.23,531.07,9,531.07
+FRAUD2018,2023-05-12 07:43:00,Americas,Prepaid Voice,Subscription Fraud,1,16.4,24.7,109.73,285.65,8,0.0
+FRAUD2019,2023-09-23 12:16:33,Africa,Prepaid Data,Wangiri,1,28.8,2.4,20.06,308.2,9,0.0
+FRAUD2020,2023-08-10 23:53:07,Africa,Prepaid Data,International Revenue Share Fraud,1,39.2,47.4,76.61,269.79,1,0.0
+FRAUD2021,2023-01-16 10:58:33,Africa,Prepaid Data,Wangiri,0,30.4,41.1,250.48,84.38,6,84.38
+FRAUD2022,2023-07-10 22:57:35,Europe,Prepaid Data,Subscription Fraud,1,11.7,17.7,104.9,83.25,4,0.0
+FRAUD2023,2023-01-27 13:48:38,Europe,Prepaid Data,Simbox,1,1.8,7.4,112.41,84.32,11,0.0
+FRAUD2024,2023-06-02 21:24:23,Europe,Postpaid Voice,Subscription Fraud,0,7.3,10.2,291.67,161.68,12,161.68
+FRAUD2025,2023-12-27 19:58:32,Africa,Prepaid Data,International Revenue Share Fraud,1,11.5,5.3,302.94,120.38,1,0.0
+FRAUD2026,2023-10-19 21:33:25,Americas,Interconnect,CLI Spoofing,0,1.3,18.5,38.45,80.22,4,80.22
+FRAUD2027,2023-02-21 20:42:38,Africa,Interconnect,CLI Spoofing,1,12.3,17.7,129.51,187.63,12,0.0
+FRAUD2028,2023-07-08 05:22:32,Europe,Postpaid Data,CLI Spoofing,1,2.7,38.4,156.3,364.42,4,0.0
+FRAUD2029,2023-10-25 17:12:26,Europe,Prepaid Voice,Wangiri,1,11.7,9.2,106.04,238.42,7,0.0
+FRAUD2030,2023-02-19 10:38:55,Europe,Postpaid Voice,Wangiri,1,20.0,30.2,113.88,78.16,1,0.0
+FRAUD2031,2023-02-03 18:07:20,Africa,Prepaid Data,Wangiri,1,39.3,17.8,104.52,102.46,5,0.0
+FRAUD2032,2023-06-04 22:38:30,Asia,Interconnect,International Revenue Share Fraud,1,5.0,1.5,26.57,102.81,12,0.0
+FRAUD2033,2023-07-30 17:51:45,Americas,Postpaid Data,Subscription Fraud,1,10.6,52.1,40.44,112.89,7,0.0
+FRAUD2034,2023-05-11 04:22:51,Africa,Postpaid Voice,Simbox,1,4.9,22.0,12.1,195.41,10,0.0
+FRAUD2035,2023-08-02 12:33:11,Asia,Postpaid Data,Wangiri,1,0.2,9.0,142.71,269.49,9,0.0
+FRAUD2036,2023-02-04 09:20:14,Africa,Postpaid Data,CLI Spoofing,1,2.8,44.1,42.59,74.38,5,0.0
+FRAUD2037,2023-02-03 19:43:17,Europe,Interconnect,CLI Spoofing,1,29.5,26.5,102.52,100.12,2,0.0
+FRAUD2038,2023-05-03 14:07:32,Americas,Prepaid Voice,Subscription Fraud,0,40.2,36.2,39.05,91.51,5,91.51
+FRAUD2039,2023-03-22 01:01:11,Asia,Postpaid Voice,International Revenue Share Fraud,1,0.1,2.0,55.52,132.56,6,0.0
+FRAUD2040,2023-11-10 06:35:53,Asia,Interconnect,Subscription Fraud,1,1.1,16.1,56.3,177.27,6,0.0
+FRAUD2041,2023-06-30 00:11:08,Africa,Postpaid Voice,CLI Spoofing,0,1.5,6.2,47.39,112.93,5,112.93
+FRAUD2042,2023-05-14 18:07:57,Africa,Prepaid Data,Wangiri,1,0.3,8.3,101.91,60.08,12,0.0
+FRAUD2043,2023-02-12 22:44:55,Americas,Interconnect,Wangiri,0,10.0,3.8,112.84,37.51,3,37.51
+FRAUD2044,2023-02-20 09:09:57,Europe,Postpaid Data,International Revenue Share Fraud,0,2.9,4.5,85.15,114.44,7,114.44
+FRAUD2045,2023-05-05 06:35:34,Americas,Postpaid Voice,Subscription Fraud,1,10.1,26.3,234.55,272.21,7,0.0
+FRAUD2046,2023-03-23 09:28:19,Americas,Postpaid Voice,Subscription Fraud,1,7.9,14.5,43.6,109.93,5,0.0
+FRAUD2047,2023-01-21 02:02:28,Europe,Prepaid Voice,Wangiri,1,0.9,1.9,253.93,107.08,12,0.0
+FRAUD2048,2023-01-01 15:01:28,Americas,Postpaid Data,Subscription Fraud,1,3.7,7.2,64.57,162.98,7,0.0
+FRAUD2049,2023-07-28 20:00:09,Americas,Interconnect,Wangiri,1,8.3,23.5,172.9,154.6,9,0.0
+FRAUD2050,2023-05-17 07:32:08,Africa,Interconnect,Subscription Fraud,1,17.0,4.9,158.52,63.45,5,0.0
+FRAUD2051,2023-10-06 11:32:19,Africa,Postpaid Voice,CLI Spoofing,1,2.7,11.1,93.36,171.68,3,0.0
+FRAUD2052,2023-11-26 17:22:07,Americas,Postpaid Data,Simbox,1,0.3,10.8,264.05,84.04,13,0.0
+FRAUD2053,2023-01-14 21:48:44,Asia,Interconnect,International Revenue Share Fraud,1,4.5,20.1,105.65,112.46,11,0.0
+FRAUD2054,2023-04-30 03:47:49,Africa,Postpaid Data,CLI Spoofing,1,21.2,13.0,112.78,210.32,13,0.0
+FRAUD2055,2023-07-24 07:06:28,Africa,Prepaid Data,Wangiri,1,3.1,59.3,54.12,171.19,13,0.0
+FRAUD2056,2023-07-04 08:48:41,Asia,Interconnect,CLI Spoofing,1,17.3,31.2,49.2,154.82,12,0.0
+FRAUD2057,2023-07-23 20:18:20,Asia,Interconnect,Simbox,1,10.3,9.9,67.55,60.04,4,0.0
+FRAUD2058,2023-03-14 14:40:37,Asia,Prepaid Voice,Simbox,1,8.0,1.8,163.01,21.67,9,0.0
+FRAUD2059,2023-03-01 17:31:21,Africa,Postpaid Data,Wangiri,0,22.5,4.4,25.82,141.9,5,141.9
+FRAUD2060,2023-02-05 10:55:36,Africa,Prepaid Voice,CLI Spoofing,1,26.1,77.6,16.28,137.94,6,0.0
+FRAUD2061,2023-05-28 16:42:40,Europe,Interconnect,Subscription Fraud,1,10.1,36.4,94.87,68.9,12,0.0
+FRAUD2062,2023-04-19 21:59:52,Africa,Prepaid Data,Simbox,0,2.4,0.4,34.7,99.88,8,99.88
+FRAUD2063,2023-11-18 23:15:14,Africa,Postpaid Voice,Wangiri,1,7.7,17.5,62.67,53.46,13,0.0
+FRAUD2064,2023-12-25 12:04:16,Americas,Postpaid Voice,CLI Spoofing,1,4.3,14.0,50.38,170.33,6,0.0
+FRAUD2065,2023-05-17 09:03:19,Europe,Prepaid Voice,CLI Spoofing,1,43.5,18.3,179.5,105.47,4,0.0
+FRAUD2066,2023-05-14 16:37:47,Europe,Postpaid Voice,International Revenue Share Fraud,1,44.8,12.9,115.73,123.3,10,0.0
+FRAUD2067,2023-02-14 09:16:26,Africa,Prepaid Voice,Simbox,1,35.2,25.3,165.7,235.18,14,0.0
+FRAUD2068,2023-07-09 08:33:00,Africa,Prepaid Data,CLI Spoofing,1,20.0,31.0,82.68,123.61,12,0.0
+FRAUD2069,2023-08-04 17:51:44,Africa,Postpaid Data,Subscription Fraud,1,1.7,1.4,35.7,100.32,5,0.0
+FRAUD2070,2023-06-22 06:25:54,Africa,Prepaid Voice,CLI Spoofing,0,5.0,39.0,254.17,85.83,2,85.83
+FRAUD2071,2023-09-11 20:57:34,Asia,Interconnect,Subscription Fraud,1,8.7,7.1,74.56,78.17,12,0.0
+FRAUD2072,2023-07-27 17:34:45,Americas,Postpaid Data,International Revenue Share Fraud,1,5.2,7.3,166.71,22.16,1,0.0
+FRAUD2073,2023-03-07 15:58:27,Europe,Interconnect,Wangiri,1,6.6,3.2,73.84,111.05,6,0.0
+FRAUD2074,2023-02-08 18:28:30,Americas,Postpaid Voice,Subscription Fraud,0,13.1,6.9,99.8,78.4,4,78.4
+FRAUD2075,2023-04-26 00:18:26,Africa,Postpaid Voice,CLI Spoofing,1,1.3,5.1,57.7,272.87,2,0.0
+FRAUD2076,2023-08-07 04:08:39,Europe,Prepaid Voice,CLI Spoofing,1,31.6,8.1,76.88,198.56,8,0.0
+FRAUD2077,2023-05-31 09:56:22,Americas,Prepaid Voice,Subscription Fraud,1,29.2,19.2,171.5,109.61,5,0.0
+FRAUD2078,2023-12-27 21:10:56,Africa,Prepaid Voice,International Revenue Share Fraud,1,1.1,0.5,46.72,80.87,4,0.0
+FRAUD2079,2023-08-27 05:08:40,Asia,Prepaid Voice,Subscription Fraud,1,19.2,5.5,47.44,58.05,11,0.0
+FRAUD2080,2023-06-21 07:28:03,Americas,Postpaid Data,International Revenue Share Fraud,1,7.5,41.1,46.08,95.69,12,0.0
+FRAUD2081,2023-09-07 04:19:28,Americas,Postpaid Data,CLI Spoofing,0,10.9,68.8,99.15,228.83,12,228.83
+FRAUD2082,2023-03-07 08:06:22,Asia,Postpaid Voice,Subscription Fraud,1,1.8,2.2,218.53,183.03,10,0.0
+FRAUD2083,2023-04-11 01:57:33,Americas,Prepaid Voice,Simbox,1,2.5,16.2,154.58,151.89,11,0.0
+FRAUD2084,2023-07-31 03:55:22,Americas,Prepaid Data,International Revenue Share Fraud,1,7.2,2.4,86.7,126.98,2,0.0
+FRAUD2085,2023-11-22 12:12:26,Americas,Prepaid Voice,International Revenue Share Fraud,1,3.0,10.0,25.48,127.12,14,0.0
+FRAUD2086,2023-03-26 04:41:07,Americas,Prepaid Voice,Wangiri,1,5.6,22.7,41.51,145.16,3,0.0
+FRAUD2087,2023-11-08 05:18:40,Europe,Postpaid Data,CLI Spoofing,1,4.3,15.7,125.62,36.85,10,0.0
+FRAUD2088,2023-03-29 19:58:14,Asia,Postpaid Data,International Revenue Share Fraud,1,10.5,0.4,30.54,137.94,8,0.0
+FRAUD2089,2023-03-25 12:16:07,Americas,Prepaid Voice,CLI Spoofing,1,6.4,16.9,73.96,152.22,10,0.0
+FRAUD2090,2023-02-08 18:12:24,Africa,Interconnect,Wangiri,1,8.8,33.1,25.24,157.21,7,0.0
+FRAUD2091,2023-09-14 12:06:04,Americas,Prepaid Voice,International Revenue Share Fraud,1,10.9,2.1,50.64,159.94,2,0.0
+FRAUD2092,2023-04-06 19:11:41,Europe,Prepaid Data,Subscription Fraud,1,2.0,24.6,226.1,71.82,10,0.0
+FRAUD2093,2023-05-13 17:12:51,Europe,Postpaid Data,Simbox,1,18.9,4.2,48.42,90.25,8,0.0
+FRAUD2094,2023-09-24 01:03:12,Asia,Prepaid Voice,Simbox,0,16.9,22.9,116.72,167.65,5,167.65
+FRAUD2095,2023-08-06 00:41:14,Europe,Postpaid Voice,International Revenue Share Fraud,1,22.1,10.4,28.68,121.55,13,0.0
+FRAUD2096,2023-11-29 17:20:07,Asia,Prepaid Voice,Simbox,1,8.6,15.1,33.62,85.68,2,0.0
+FRAUD2097,2023-08-02 08:04:09,Americas,Postpaid Data,Simbox,1,4.0,23.2,242.03,174.24,5,0.0
+FRAUD2098,2023-01-24 16:41:16,Africa,Prepaid Data,Simbox,1,3.4,55.4,51.34,149.43,11,0.0
+FRAUD2099,2023-08-25 13:51:32,Americas,Prepaid Data,Subscription Fraud,1,10.7,1.6,230.6,148.46,13,0.0
+FRAUD2100,2023-01-31 19:59:44,Europe,Postpaid Data,CLI Spoofing,1,1.6,7.0,30.43,251.39,8,0.0
+FRAUD2101,2023-09-04 02:41:34,Americas,Postpaid Data,International Revenue Share Fraud,1,7.1,14.6,53.75,169.03,10,0.0
+FRAUD2102,2023-12-06 00:00:31,Asia,Postpaid Voice,International Revenue Share Fraud,1,5.6,28.6,110.3,67.67,11,0.0
+FRAUD2103,2023-08-16 02:54:52,Africa,Prepaid Data,CLI Spoofing,1,24.5,29.2,112.93,311.15,12,0.0
+FRAUD2104,2023-01-15 16:32:53,Africa,Prepaid Voice,CLI Spoofing,1,0.2,6.6,43.95,128.82,9,0.0
+FRAUD2105,2023-08-04 13:44:00,Americas,Prepaid Data,Wangiri,1,11.1,34.3,38.85,54.0,11,0.0
+FRAUD2106,2023-09-04 13:13:19,Asia,Postpaid Voice,Simbox,0,35.1,5.0,90.03,191.91,8,191.91
+FRAUD2107,2023-11-17 11:54:29,Americas,Prepaid Voice,Simbox,1,22.3,46.7,81.59,59.67,4,0.0
+FRAUD2108,2023-09-18 19:11:48,Asia,Prepaid Voice,Simbox,1,6.9,65.0,162.12,245.92,9,0.0
+FRAUD2109,2023-12-18 20:49:18,Africa,Prepaid Voice,Wangiri,1,11.6,20.6,117.87,485.9,14,0.0
+FRAUD2110,2023-12-07 05:36:26,Americas,Postpaid Data,International Revenue Share Fraud,1,14.3,60.7,197.45,96.12,9,0.0
+FRAUD2111,2023-03-25 03:13:38,Europe,Prepaid Data,Subscription Fraud,1,3.8,22.5,96.78,168.06,9,0.0
+FRAUD2112,2023-03-03 06:16:00,Africa,Prepaid Data,Wangiri,0,0.7,15.0,59.48,76.88,11,76.88
+FRAUD2113,2023-03-11 02:12:19,Europe,Postpaid Data,CLI Spoofing,1,22.8,68.9,32.02,93.69,1,0.0
+FRAUD2114,2023-06-07 12:23:54,Europe,Postpaid Voice,Subscription Fraud,1,0.3,3.8,188.47,62.33,4,0.0
+FRAUD2115,2023-05-16 05:50:19,Asia,Interconnect,Subscription Fraud,1,0.4,4.2,109.72,38.01,8,0.0
+FRAUD2116,2023-10-31 23:13:48,Africa,Interconnect,Simbox,1,25.7,109.3,33.99,208.78,9,0.0
+FRAUD2117,2023-05-11 09:17:07,Asia,Postpaid Voice,Simbox,1,0.1,44.7,149.92,172.16,4,0.0
+FRAUD2118,2023-04-25 01:10:31,Europe,Prepaid Voice,CLI Spoofing,1,3.9,25.4,102.47,247.92,8,0.0
+FRAUD2119,2023-04-17 02:46:10,Africa,Prepaid Voice,Subscription Fraud,1,12.6,36.9,222.08,124.87,12,0.0
+FRAUD2120,2023-04-08 18:50:49,Americas,Interconnect,CLI Spoofing,1,14.1,1.1,56.29,183.47,8,0.0
+FRAUD2121,2023-03-29 05:34:53,Americas,Prepaid Data,CLI Spoofing,1,18.5,1.6,43.66,344.15,11,0.0
+FRAUD2122,2023-11-19 01:25:20,Europe,Interconnect,CLI Spoofing,1,3.2,0.4,54.67,108.8,6,0.0
+FRAUD2123,2023-03-13 03:29:15,Africa,Prepaid Data,International Revenue Share Fraud,1,8.3,10.7,61.13,71.86,7,0.0
+FRAUD2124,2023-01-19 00:23:42,Africa,Postpaid Data,Simbox,1,23.1,48.0,280.62,48.98,1,0.0
+FRAUD2125,2023-11-07 16:12:26,Asia,Prepaid Data,International Revenue Share Fraud,1,1.2,14.5,175.93,98.98,6,0.0
+FRAUD2126,2023-05-16 01:58:14,Africa,Prepaid Voice,CLI Spoofing,1,22.7,43.8,211.73,129.27,3,0.0
+FRAUD2127,2023-05-15 17:21:48,Asia,Interconnect,Simbox,1,13.2,0.2,154.04,227.23,9,0.0
+FRAUD2128,2023-02-23 22:50:33,Americas,Prepaid Voice,Subscription Fraud,1,3.4,6.9,77.48,62.22,5,0.0
+FRAUD2129,2023-10-12 15:21:12,Africa,Interconnect,CLI Spoofing,1,2.3,13.1,97.29,127.87,3,0.0
+FRAUD2130,2023-12-07 17:57:06,Americas,Prepaid Voice,International Revenue Share Fraud,1,0.1,1.8,154.39,99.9,12,0.0
+FRAUD2131,2023-03-09 09:29:29,Americas,Postpaid Voice,International Revenue Share Fraud,1,13.7,3.7,54.95,48.3,8,0.0
+FRAUD2132,2023-01-24 03:51:45,Americas,Prepaid Data,International Revenue Share Fraud,1,3.9,98.9,82.61,157.74,6,0.0
+FRAUD2133,2023-06-29 08:16:09,Africa,Postpaid Voice,Simbox,0,49.4,71.7,65.0,284.87,6,284.87
+FRAUD2134,2023-02-23 16:37:48,Africa,Postpaid Data,International Revenue Share Fraud,1,44.1,30.0,95.14,81.53,8,0.0
+FRAUD2135,2023-02-01 09:36:05,Americas,Prepaid Voice,Subscription Fraud,1,7.3,2.2,159.46,281.7,11,0.0
+FRAUD2136,2023-06-05 01:21:04,Europe,Interconnect,Subscription Fraud,0,6.9,6.2,100.74,31.76,8,31.76
+FRAUD2137,2023-03-03 06:17:27,Africa,Postpaid Voice,International Revenue Share Fraud,1,38.8,12.9,131.46,114.75,8,0.0
+FRAUD2138,2023-11-30 13:10:22,Africa,Postpaid Voice,Wangiri,1,29.0,28.5,135.23,204.42,8,0.0
+FRAUD2139,2023-07-11 21:36:03,Europe,Interconnect,Subscription Fraud,1,11.2,26.7,200.64,46.01,2,0.0
+FRAUD2140,2023-03-06 13:14:55,Asia,Postpaid Data,Wangiri,0,8.4,5.0,119.97,83.1,12,83.1
+FRAUD2141,2023-08-25 04:01:29,Africa,Postpaid Voice,Simbox,1,8.8,10.2,124.66,106.76,12,0.0
+FRAUD2142,2023-04-28 21:14:51,Europe,Postpaid Data,Wangiri,1,0.4,18.6,63.01,148.68,11,0.0
+FRAUD2143,2023-12-12 11:59:47,Americas,Interconnect,Subscription Fraud,1,8.7,13.3,186.18,98.58,2,0.0
+FRAUD2144,2023-03-07 23:20:26,Asia,Postpaid Voice,Subscription Fraud,1,7.7,24.1,39.83,195.14,1,0.0
+FRAUD2145,2023-08-15 16:14:56,Africa,Interconnect,CLI Spoofing,1,0.7,9.5,441.11,95.62,10,0.0
+FRAUD2146,2023-02-03 14:05:16,Americas,Interconnect,Subscription Fraud,1,9.0,2.9,133.88,199.71,7,0.0
+FRAUD2147,2023-09-22 16:13:37,Americas,Postpaid Voice,Simbox,1,6.0,17.2,87.05,79.42,10,0.0
+FRAUD2148,2023-11-29 22:00:32,Americas,Postpaid Voice,CLI Spoofing,1,7.8,5.0,30.33,116.21,9,0.0
+FRAUD2149,2023-12-20 00:34:48,Africa,Postpaid Data,Simbox,1,29.4,1.6,53.31,212.16,13,0.0
+FRAUD2150,2023-10-30 05:05:52,Europe,Postpaid Data,CLI Spoofing,1,9.7,62.4,32.31,122.29,12,0.0
+FRAUD2151,2023-08-17 07:46:57,Americas,Prepaid Data,Subscription Fraud,1,18.0,4.0,54.04,94.02,2,0.0
+FRAUD2152,2023-02-28 04:19:39,Europe,Prepaid Voice,Wangiri,0,1.6,18.1,100.55,94.71,4,94.71
+FRAUD2153,2023-03-13 10:05:24,Americas,Interconnect,Subscription Fraud,1,19.4,18.5,81.94,184.25,11,0.0
+FRAUD2154,2023-06-29 20:20:03,Americas,Interconnect,Simbox,1,8.7,2.5,98.01,175.84,12,0.0
+FRAUD2155,2023-12-03 03:17:15,Europe,Postpaid Data,Simbox,0,7.6,12.0,83.71,166.42,3,166.42
+FRAUD2156,2023-09-27 22:32:04,Europe,Interconnect,Subscription Fraud,1,18.6,45.0,155.21,92.44,13,0.0
+FRAUD2157,2023-02-21 09:35:29,Europe,Postpaid Voice,Wangiri,1,1.4,18.3,54.99,156.93,10,0.0
+FRAUD2158,2023-07-14 15:46:38,Africa,Prepaid Voice,International Revenue Share Fraud,1,5.4,11.2,109.83,60.97,14,0.0
+FRAUD2159,2023-02-22 09:04:44,Africa,Interconnect,Simbox,1,9.0,48.6,97.93,40.71,4,0.0
+FRAUD2160,2023-10-21 16:15:32,Africa,Interconnect,Subscription Fraud,1,2.6,2.3,171.55,116.53,7,0.0
+FRAUD2161,2023-03-17 20:56:56,Africa,Postpaid Voice,Simbox,1,11.8,11.8,69.69,363.98,6,0.0
+FRAUD2162,2023-07-23 11:56:07,Asia,Postpaid Voice,International Revenue Share Fraud,0,10.5,1.8,357.43,72.11,3,72.11
+FRAUD2163,2023-06-17 22:24:19,Asia,Postpaid Data,Subscription Fraud,1,10.9,5.2,31.17,124.02,4,0.0
+FRAUD2164,2023-10-14 12:01:19,Asia,Postpaid Voice,International Revenue Share Fraud,1,0.1,21.2,13.09,55.02,9,0.0
+FRAUD2165,2023-03-28 23:33:54,Africa,Prepaid Data,Simbox,1,13.4,0.6,118.02,155.69,9,0.0
+FRAUD2166,2023-05-11 04:33:19,Africa,Interconnect,Simbox,1,7.4,4.1,41.54,245.65,7,0.0
+FRAUD2167,2023-02-07 13:28:46,Europe,Postpaid Data,CLI Spoofing,1,22.3,12.9,52.77,163.65,1,0.0
+FRAUD2168,2023-09-06 00:52:59,Americas,Interconnect,CLI Spoofing,1,1.6,28.7,2.87,124.92,4,0.0
+FRAUD2169,2023-10-04 11:09:01,Africa,Interconnect,International Revenue Share Fraud,1,12.1,41.7,260.97,124.84,3,0.0
+FRAUD2170,2023-04-30 20:38:53,Americas,Interconnect,Subscription Fraud,1,2.0,26.9,22.68,93.41,8,0.0
+FRAUD2171,2023-03-18 10:18:35,Africa,Prepaid Data,Subscription Fraud,1,6.8,19.3,138.45,119.28,4,0.0
+FRAUD2172,2023-04-15 02:53:35,Europe,Postpaid Voice,International Revenue Share Fraud,1,23.8,20.7,16.9,126.67,13,0.0
+FRAUD2173,2023-11-26 15:55:21,Asia,Interconnect,CLI Spoofing,1,9.0,35.5,149.23,219.54,3,0.0
+FRAUD2174,2023-11-02 01:50:21,Americas,Prepaid Data,Wangiri,1,5.2,10.1,108.79,409.11,13,0.0
+FRAUD2175,2023-05-26 03:14:31,Americas,Interconnect,CLI Spoofing,1,12.7,0.7,73.12,46.82,6,0.0
+FRAUD2176,2023-09-21 23:31:35,Europe,Interconnect,Subscription Fraud,1,12.7,4.5,120.41,231.38,3,0.0
+FRAUD2177,2023-09-30 04:13:10,Europe,Interconnect,International Revenue Share Fraud,1,9.7,12.8,88.12,77.97,11,0.0
+FRAUD2178,2023-08-08 03:23:43,Europe,Postpaid Voice,Simbox,1,6.3,17.8,101.04,122.45,8,0.0
+FRAUD2179,2023-05-11 00:26:58,Asia,Postpaid Voice,International Revenue Share Fraud,1,0.6,7.4,40.28,162.16,12,0.0
+FRAUD2180,2023-10-13 12:48:09,Africa,Postpaid Data,Wangiri,1,2.3,41.1,138.39,124.13,8,0.0
+FRAUD2181,2023-09-25 00:58:23,Americas,Postpaid Voice,Simbox,0,12.9,0.3,114.89,95.15,13,95.15
+FRAUD2182,2023-05-21 09:27:12,Africa,Prepaid Voice,Simbox,1,20.9,3.2,39.39,52.11,9,0.0
+FRAUD2183,2023-05-29 12:38:57,Africa,Postpaid Voice,Wangiri,1,10.8,33.8,130.59,75.25,13,0.0
+FRAUD2184,2023-01-03 17:38:46,Africa,Interconnect,CLI Spoofing,1,3.6,6.4,147.29,239.71,7,0.0
+FRAUD2185,2023-08-19 07:45:08,Americas,Postpaid Voice,International Revenue Share Fraud,1,14.4,29.3,56.19,135.38,7,0.0
+FRAUD2186,2023-11-26 02:19:03,Africa,Postpaid Voice,International Revenue Share Fraud,1,9.3,24.9,138.95,26.17,8,0.0
+FRAUD2187,2023-09-29 13:44:14,Asia,Postpaid Data,CLI Spoofing,1,6.6,0.3,131.79,381.22,2,0.0
+FRAUD2188,2023-02-17 06:07:06,Europe,Interconnect,CLI Spoofing,1,13.5,91.2,63.11,88.5,8,0.0
+FRAUD2189,2023-07-04 09:54:33,Africa,Postpaid Data,International Revenue Share Fraud,1,3.9,57.1,114.39,57.69,5,0.0
+FRAUD2190,2023-02-10 11:59:55,Asia,Prepaid Data,Simbox,1,6.0,7.5,120.01,113.11,12,0.0
+FRAUD2191,2023-08-15 13:43:20,Americas,Postpaid Data,CLI Spoofing,1,9.7,29.0,83.31,64.36,7,0.0
+FRAUD2192,2023-05-31 20:05:51,Europe,Prepaid Voice,International Revenue Share Fraud,1,26.4,19.3,44.69,167.7,10,0.0
+FRAUD2193,2023-07-25 07:26:30,Asia,Prepaid Voice,International Revenue Share Fraud,1,17.1,23.8,420.5,91.65,9,0.0
+FRAUD2194,2023-07-04 23:53:15,Africa,Prepaid Voice,Wangiri,1,9.5,10.1,71.02,215.99,2,0.0
+FRAUD2195,2023-09-08 06:22:01,Americas,Prepaid Data,Wangiri,1,31.9,16.8,116.84,105.05,4,0.0
+FRAUD2196,2023-02-26 22:20:12,Africa,Interconnect,CLI Spoofing,1,36.4,36.5,2.52,49.62,4,0.0
+FRAUD2197,2023-02-27 13:22:25,Europe,Postpaid Voice,CLI Spoofing,1,1.4,21.3,61.21,91.72,14,0.0
+FRAUD2198,2023-06-07 02:16:57,Europe,Postpaid Data,CLI Spoofing,0,3.9,30.2,61.26,135.07,14,135.07
+FRAUD2199,2023-07-26 18:55:27,Africa,Prepaid Voice,CLI Spoofing,0,1.2,93.8,100.02,124.57,3,124.57
